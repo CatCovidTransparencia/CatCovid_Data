@@ -1,0 +1,4 @@
+# Quadratic
+
+
+Continuous curv aproximation.
