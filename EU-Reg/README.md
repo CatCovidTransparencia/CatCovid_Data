@@ -2,7 +2,7 @@
 
 The final file is:  
 **EU-Reg_deaths_series.csv**
-
+ 
 
 It contains the deaths-series for the European regions we used in our comparative. All the values come from official sources.
 

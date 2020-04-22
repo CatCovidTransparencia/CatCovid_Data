@@ -2,7 +2,7 @@
 
 The final file is:  
 **covid19_periods.json**
-
+ 
 
 It contains all the periods we calculated for Covid-19 in days increment.
 
