@@ -1,0 +1,35 @@
+
+https://github.com/CatCovidTransparencia/CatCovid_Data
+
+___ Upload and erase modifs
+cd CatCovid_Data
+git add .
+git commit -m 'new'
+git push origin master
+
+___ Upload modifs
+cd CatCovid_Data
+git add .
+git commit -m 'new'
+git push -u origin master
+
+___ Download modifs
+git pull origin master
+
+
+___ CHANGING THE CREDENTIALS
+
+VIEW:
+git config --list
+
+git config user.name CatCovidTransparencia
+
+git config --global user.name CatCovidTransparencia
+
+git config user.email
+git config user.email catcovidtransparencia@gmail.com
+git config --global user.email catcovidtransparencia@gmail.com
+
+____ gitignore
+
+https://git-scm.com/docs/gitignore
