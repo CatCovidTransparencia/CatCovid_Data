@@ -4,12 +4,15 @@ const fs = require("fs");
 
 let vals_arr_length = 51;
 
-let r_file = "covid19_periods.json";
+// let r_file = "covid19_periods.json";
+let r_file = "covid19_periods_accum.json";
 let r_path = "../";
 let r_pathfile = r_path + r_file;
 
-let w_file = "covid19_periods.csv";
-let w_file_2 = "covid19_periods_%.csv";
+// let w_file = "covid19_periods.csv";
+// let w_file_2 = "covid19_periods_%.csv";
+let w_file = "covid19_periods_accum.csv";
+let w_file_2 = "covid19_periods_accum_%.csv";
 let w_path = "../";
 let w_pathfile = w_path + w_file;
 let w_pathfile_2 = w_path + w_file_2;
