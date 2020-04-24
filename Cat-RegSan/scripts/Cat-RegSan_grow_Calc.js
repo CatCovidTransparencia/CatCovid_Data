@@ -5,10 +5,10 @@ const fs = require("fs");
 let convert_to_percent = true;
 // convert_to_percent = false;
 
-let val_min = 18;
+let val_min = 6;
 
 let file_attr_1 = "min" + val_min;
-let val_length_max = 15;
+let val_length_max = 32;
 let val_length_min = 8;
 
 let r_path = "../" + file_attr_1 + "/";
@@ -33,10 +33,10 @@ console.log("r_lines.length : " + r_lines.length);
 
 let w_data_1;
 
-// headers of date Euro style
+// headers
 let headers_1 = "country";
 for (let k = 0; k < val_length_max + 1; k++) {
-  headers_1 += "," + k;
+  headers_1 += "," + (k + 12);
 }
 console.log("headers : " + headers_1);
 
@@ -50,7 +50,7 @@ for (let i = 1; i < (r_lines.length -1); i++) {
   let country_name = line_arr.shift();
   console.log(country_name);
 
-  let vals_out = [0];
+  let vals_out = [""];
 
   for (let k = 0; k < val_length_max; k++) {
     let val1_ok = line_arr[k] > 0 && line_arr[k] != "";
