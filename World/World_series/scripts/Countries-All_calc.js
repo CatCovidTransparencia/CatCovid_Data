@@ -3,7 +3,7 @@
 const fs = require("fs");
 
 let r_path = "../CSSE/";
-let r_file = "time_series_covid19_deaths_global_2020-04-20_corrected.csv";
+let r_file = "time_series_covid19_deaths_global_2020-04-25_corrected.csv";
 let r_pathfile = r_path + r_file;
 console.log("r_pathfile : " + r_pathfile);
 
@@ -74,6 +74,7 @@ fs.writeFileSync(w_pathfile_2, w_data_2);
 
 function dateUSConvert(de) {
   let d_arr = de.split("/");
+  if (d_arr[0].toString().length < 2) d_arr[0] = "0" + d_arr[0];
   let d = "20" + d_arr[2] + "-" + d_arr[0] + "-" + d_arr[1];
   return d;
 }

@@ -1,0 +1,15 @@
+ISO,name,population,km2,code,code_INSEE
+FR-ARA,Auvergne-Rhône-Alpes,8032377,69711,1,84
+FR-BFC,Bourgogne-Franche-Comté,2783039,47784,2,27
+FR-BRE,Bretagne,3340379,27208,3,53
+FR-CVL,Centre-Val de Loire,2559073,39151,4,24
+FR-COR,Corse,344679,8680,5,94
+FR-GES,Grand Est,5511747,57441,6,44
+FR-HDF,Hauts-de-France,5962662,31806,7,32
+FR-IDF,Île-de-France,12278210,12011,8,11
+FR-NOR,Normandie,3303500,29907,9,28
+FR-NAQ,Nouvelle-Aquitaine,5999982,84036,10,75
+FR-OCC,Occitanie,5924858,72724,11,76
+FR-PDL,Pays de la Loire,3801797,32082,12,52
+FR-PAC,Provence-Alpes-Côte d'Azur,5055651,31400,13,93
+FR,France,64897954,543941,0,0
