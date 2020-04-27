@@ -1,0 +1,114 @@
+{
+  "Auvergne-Rhône-Alpes": {
+    "ISO": "FR-ARA",
+    "name": "Auvergne-Rhône-Alpes",
+    "population": 8032377,
+    "km2": 69711,
+    "code": 1,
+    "code_INSEE": 84
+  },
+  "Bourgogne-Franche-Comté": {
+    "ISO": "FR-BFC",
+    "name": "Bourgogne-Franche-Comté",
+    "population": 2783039,
+    "km2": 47784,
+    "code": 2,
+    "code_INSEE": 27
+  },
+  "Bretagne": {
+    "ISO": "FR-BRE",
+    "name": "Bretagne",
+    "population": 3340379,
+    "km2": 27208,
+    "code": 3,
+    "code_INSEE": 53
+  },
+  "Centre-Val de Loire": {
+    "ISO": "FR-CVL",
+    "name": "Centre-Val de Loire",
+    "population": 2559073,
+    "km2": 39151,
+    "code": 4,
+    "code_INSEE": 24
+  },
+  "Corse": {
+    "ISO": "FR-COR",
+    "name": "Corse",
+    "population": 344679,
+    "km2": 8680,
+    "code": 5,
+    "code_INSEE": 94
+  },
+  "Grand Est": {
+    "ISO": "FR-GES",
+    "name": "Grand Est",
+    "population": 5511747,
+    "km2": 57441,
+    "code": 6,
+    "code_INSEE": 44
+  },
+  "Hauts-de-France": {
+    "ISO": "FR-HDF",
+    "name": "Hauts-de-France",
+    "population": 5962662,
+    "km2": 31806,
+    "code": 7,
+    "code_INSEE": 32
+  },
+  "Île-de-France": {
+    "ISO": "FR-IDF",
+    "name": "Île-de-France",
+    "population": 12278210,
+    "km2": 12011,
+    "code": 8,
+    "code_INSEE": 11
+  },
+  "Normandie": {
+    "ISO": "FR-NOR",
+    "name": "Normandie",
+    "population": 3303500,
+    "km2": 29907,
+    "code": 9,
+    "code_INSEE": 28
+  },
+  "Nouvelle-Aquitaine": {
+    "ISO": "FR-NAQ",
+    "name": "Nouvelle-Aquitaine",
+    "population": 5999982,
+    "km2": 84036,
+    "code": 10,
+    "code_INSEE": 75
+  },
+  "Occitanie": {
+    "ISO": "FR-OCC",
+    "name": "Occitanie",
+    "population": 5924858,
+    "km2": 72724,
+    "code": 11,
+    "code_INSEE": 76
+  },
+  "Pays de la Loire": {
+    "ISO": "FR-PDL",
+    "name": "Pays de la Loire",
+    "population": 3801797,
+    "km2": 32082,
+    "code": 12,
+    "code_INSEE": 52
+  },
+  "Provence-Alpes-Côte d'Azur": {
+    "ISO": "FR-PAC",
+    "name": "Provence-Alpes-Côte d'Azur",
+    "population": 5055651,
+    "km2": 31400,
+    "code": 13,
+    "code_INSEE": 93
+  },
+  "France": {
+    "ISO": "FR",
+    "name": "France",
+    "population": 64897954,
+    "km2": 543941,
+    "code": "0",
+    "code_INSEE": "0"
+  }
+}

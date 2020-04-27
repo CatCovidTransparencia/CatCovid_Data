@@ -1,0 +1,142 @@
+{
+  "Andalucía": {
+    "ISO": "ES-AN",
+    "name": "Andalucía",
+    "population": 8414240,
+    "km2": 87599,
+    "code": 1
+  },
+  "Aragón": {
+    "ISO": "ES-AR",
+    "name": "Aragón",
+    "population": 1319291,
+    "km2": 47720,
+    "code": 2
+  },
+  "Asturias": {
+    "ISO": "ES-AS",
+    "name": "Asturias",
+    "population": 1022800,
+    "km2": 10604,
+    "code": 3
+  },
+  "Baleares": {
+    "ISO": "ES-IB",
+    "name": "Baleares",
+    "population": 1149460,
+    "km2": 4992,
+    "code": 4
+  },
+  "Canarias": {
+    "ISO": "ES-CN",
+    "name": "Canarias",
+    "population": 2153389,
+    "km2": 7447,
+    "code": 5
+  },
+  "Cantabria": {
+    "ISO": "ES-CB",
+    "name": "Cantabria",
+    "population": 581078,
+    "km2": 5321,
+    "code": 6
+  },
+  "Castilla-La Mancha": {
+    "ISO": "ES-CM",
+    "name": "Castilla-La Mancha",
+    "population": 2032863,
+    "km2": 79461,
+    "code": 8
+  },
+  "Castilla y León": {
+    "ISO": "ES-CL",
+    "name": "Castilla y León",
+    "population": 2399548,
+    "km2": 94224,
+    "code": 7
+  },
+  "Cataluña": {
+    "ISO": "ES-CT",
+    "name": "Cataluña",
+    "population": 7675217,
+    "km2": 32113,
+    "code": 9
+  },
+  "C. Valenciana": {
+    "ISO": "ES-VC",
+    "name": "C. Valenciana",
+    "population": 5003769,
+    "km2": 23255,
+    "code": 10
+  },
+  "Extremadura": {
+    "ISO": "ES-EX",
+    "name": "Extremadura",
+    "population": 1067710,
+    "km2": 41634,
+    "code": 11
+  },
+  "Galicia": {
+    "ISO": "ES-GA",
+    "name": "Galicia",
+    "population": 2699499,
+    "km2": 29575,
+    "code": 12
+  },
+  "Madrid": {
+    "ISO": "ES-MD",
+    "name": "Madrid",
+    "population": 6663394,
+    "km2": 8028,
+    "code": 13
+  },
+  "Murcia": {
+    "ISO": "ES-MC",
+    "name": "Murcia",
+    "population": 1493898,
+    "km2": 11314,
+    "code": 14
+  },
+  "Navarra": {
+    "ISO": "ES-NC",
+    "name": "Navarra",
+    "population": 654214,
+    "km2": 10391,
+    "code": 15
+  },
+  "País Vasco": {
+    "ISO": "ES-PV",
+    "name": "País Vasco",
+    "population": 2207776,
+    "km2": 7234,
+    "code": 16
+  },
+  "La Rioja": {
+    "ISO": "ES-RI",
+    "name": "La Rioja",
+    "population": 316798,
+    "km2": 5045,
+    "code": 17
+  },
+  "Ceuta": {
+    "ISO": "ES-CE",
+    "name": "Ceuta",
+    "population": 84777,
+    "km2": 18,
+    "code": 18
+  },
+  "Melilla": {
+    "ISO": "ES-ML",
+    "name": "Melilla",
+    "population": 86487,
+    "km2": 12,
+    "code": 19
+  },
+  "Spain": {
+    "ISO": "ES",
+    "name": "Spain",
+    "population": 47026208,
+    "km2": 505370,
+    "code": "0"
+  }
+}
