@@ -2,8 +2,10 @@
 
 const fs = require("fs");
 
+var expr_linebreak = /\r\n|\r|\n/;
+
 let r_path = "../CSSE/";
-let r_file = "time_series_covid19_deaths_global_2020-04-25_corrected.csv";
+let r_file = "time_series_covid19_deaths_global_2020-04-27_corrected.csv";
 let r_pathfile = r_path + r_file;
 console.log("r_pathfile : " + r_pathfile);
 
@@ -24,7 +26,7 @@ console.log("w_pathfile_2 : " + w_pathfile_2);
 
 let r_rawdata = fs.readFileSync(r_pathfile);
 
-let r_lines = r_rawdata.toString().split("\n");
+let r_lines = r_rawdata.toString().split(expr_linebreak);
 console.log("r_lines.length : " + r_lines.length);
 
 let w_data_1;

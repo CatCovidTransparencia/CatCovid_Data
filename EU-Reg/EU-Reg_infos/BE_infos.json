@@ -1,0 +1,30 @@
+{
+  "Bruxelles": {
+    "ISO": "BE-BRU",
+    "name": "Bruxelles",
+    "population": 1208542,
+    "km2": 162,
+    "code": 1
+  },
+  "Vlaanderen": {
+    "ISO": "BE-VLG",
+    "name": "Vlaanderen",
+    "population": 6589069,
+    "km2": 13625,
+    "code": 2
+  },
+  "Wallonie": {
+    "ISO": "BE-WAL",
+    "name": "Wallonie",
+    "population": 3633795,
+    "km2": 16901,
+    "code": 3
+  },
+  "Belgium": {
+    "ISO": "BE",
+    "name": "Belgium",
+    "population": 11431406,
+    "km2": 30688,
+    "code": "0"
+  }
+}

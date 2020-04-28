@@ -1,0 +1,37 @@
+{
+  "England": {
+    "ISO": "GB-ENG",
+    "name": "England",
+    "population": 55977178,
+    "km2": 130309,
+    "code": 1
+  },
+  "Scotland": {
+    "ISO": "GB-SCT",
+    "name": "Scotland",
+    "population": 5438100,
+    "km2": 77911,
+    "code": 2
+  },
+  "Wales": {
+    "ISO": "GB-WLS",
+    "name": "Wales",
+    "population": 3138631,
+    "km2": 20736,
+    "code": 3
+  },
+  "Northern Ireland": {
+    "ISO": "GB-NIR",
+    "name": "Northern Ireland",
+    "population": 1881641,
+    "km2": 13793,
+    "code": 4
+  },
+  "United Kingdom": {
+    "ISO": "GB",
+    "name": "United Kingdom",
+    "population": 66435550,
+    "km2": 242749,
+    "code": "0"
+  }
+}

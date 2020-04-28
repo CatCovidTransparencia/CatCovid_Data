@@ -1,0 +1,121 @@
+{
+  "Baden-Württemberg": {
+    "ISO": "DE-BW",
+    "name": "Baden-Württemberg",
+    "population": 10880000,
+    "km2": 35751,
+    "code": 1
+  },
+  "Bayern": {
+    "ISO": "DE-BY",
+    "name": "Bayern",
+    "population": 12844000,
+    "km2": 70550,
+    "code": 2
+  },
+  "Berlin": {
+    "ISO": "DE-BE",
+    "name": "Berlin",
+    "population": 3520000,
+    "km2": 892,
+    "code": 3
+  },
+  "Brandenburg": {
+    "ISO": "DE-BB",
+    "name": "Brandenburg",
+    "population": 2485000,
+    "km2": 29654,
+    "code": 4
+  },
+  "Bremen": {
+    "ISO": "DE-HB",
+    "name": "Bremen",
+    "population": 671000,
+    "km2": 420,
+    "code": 5
+  },
+  "Hamburg": {
+    "ISO": "DE-HH",
+    "name": "Hamburg",
+    "population": 1787000,
+    "km2": 755,
+    "code": 6
+  },
+  "Hessen": {
+    "ISO": "DE-HE",
+    "name": "Hessen",
+    "population": 6176000,
+    "km2": 21115,
+    "code": 7
+  },
+  "Mecklenburg-Vorpommern": {
+    "ISO": "DE-MV",
+    "name": "Mecklenburg-Vorpommern",
+    "population": 1612000,
+    "km2": 23212,
+    "code": 8
+  },
+  "Niedersachsen": {
+    "ISO": "DE-NI",
+    "name": "Niedersachsen",
+    "population": 7927000,
+    "km2": 47593,
+    "code": 9
+  },
+  "Nordrhein-Westfalen": {
+    "ISO": "DE-NW",
+    "name": "Nordrhein-Westfalen",
+    "population": 17866000,
+    "km2": 34113,
+    "code": 10
+  },
+  "Rheinland-Pfalz": {
+    "ISO": "DE-RP",
+    "name": "Rheinland-Pfalz",
+    "population": 4053000,
+    "km2": 19854,
+    "code": 11
+  },
+  "Saarland": {
+    "ISO": "DE-SL",
+    "name": "Saarland",
+    "population": 996000,
+    "km2": 2567,
+    "code": 12
+  },
+  "Sachsen": {
+    "ISO": "DE-SN",
+    "name": "Sachsen",
+    "population": 4085000,
+    "km2": 18449,
+    "code": 13
+  },
+  "Sachsen-Anhalt": {
+    "ISO": "DE-ST",
+    "name": "Sachsen-Anhalt",
+    "population": 2245000,
+    "km2": 20452,
+    "code": 14
+  },
+  "Schleswig-Holstein": {
+    "ISO": "DE-SH",
+    "name": "Schleswig-Holstein",
+    "population": 2859000,
+    "km2": 15802,
+    "code": 15
+  },
+  "Thüringen": {
+    "ISO": "DE-TH",
+    "name": "Thüringen",
+    "population": 2171000,
+    "km2": 16202,
+    "code": 16
+  },
+  "Germany": {
+    "ISO": "DE",
+    "name": "Germany",
+    "population": 82176000,
+    "km2": 357386,
+    "code": "0"
+  }
+}
