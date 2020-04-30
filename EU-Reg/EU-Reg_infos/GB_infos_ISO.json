@@ -1,10 +1,10 @@
 {
-  "GB-ENG": {
-    "ISO": "GB-ENG",
-    "name": "England",
-    "population": 55977178,
-    "km2": 130309,
-    "code": 1
+  "GB": {
+    "ISO": "GB",
+    "name": "United Kingdom",
+    "population": 66435550,
+    "km2": 242749,
+    "code": "0"
   },
   "GB-SCT": {
     "ISO": "GB-SCT",
@@ -27,11 +27,88 @@
     "km2": 13793,
     "code": 4
   },
-  "GB": {
-    "ISO": "GB",
-    "name": "United Kingdom",
-    "population": 66435550,
-    "km2": 242749,
-    "code": "0"
+  "GB-ENG": {
+    "ISO": "GB-ENG",
+    "name": "England",
+    "population": 55977178,
+    "km2": 130309,
+    "code": 1
+  },
+  "GB-ENG-H": {
+    "ISO": "GB-ENG-H",
+    "name": "East Of England",
+    "population": 6201214,
+    "km2": 19120,
+    "code": 11
+  },
+  "GB-ENG-I": {
+    "ISO": "GB-ENG-I",
+    "name": "London",
+    "population": 8908081,
+    "km2": 1572,
+    "code": 12
+  },
+  "GB-ENG-FG": {
+    "ISO": "GB-ENG-FG",
+    "name": "Midlands",
+    "population": 10704906,
+    "km2": 28627,
+    "code": 134
+  },
+  "GB-ENG-CE": {
+    "ISO": "GB-ENG-CE",
+    "name": "North East And Yorkshire",
+    "population": 8137524,
+    "km2": 24012,
+    "code": 156
+  },
+  "GB-ENG-D": {
+    "ISO": "GB-ENG-D",
+    "name": "North West",
+    "population": 7292093,
+    "km2": 14165,
+    "code": 17
+  },
+  "GB-ENG-J": {
+    "ISO": "GB-ENG-J",
+    "name": "South East",
+    "population": 9133625,
+    "km2": 19095,
+    "code": 18
+  },
+  "GB-ENG-K": {
+    "ISO": "GB-ENG-K",
+    "name": "South West",
+    "population": 5599735,
+    "km2": 23829,
+    "code": 19
+  },
+  "GB-ENG-F": {
+    "ISO": "GB-ENG-F",
+    "name": "East Midlands",
+    "population": 4804149,
+    "km2": 15627,
+    "code": 13
+  },
+  "GB-ENG-G": {
+    "ISO": "GB-ENG-G",
+    "name": "West Midlands",
+    "population": 5900757,
+    "km2": 13000,
+    "code": 14
+  },
+  "GB-ENG-C": {
+    "ISO": "GB-ENG-C",
+    "name": "North East",
+    "population": 2657909,
+    "km2": 8592,
+    "code": 15
+  },
+  "GB-ENG-E": {
+    "ISO": "GB-ENG-E",
+    "name": "Yorkshire",
+    "population": 5479615,
+    "km2": 15420,
+    "code": 16
   }
 }

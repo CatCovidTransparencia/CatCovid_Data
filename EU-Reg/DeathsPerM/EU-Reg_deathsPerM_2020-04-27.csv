@@ -83,10 +83,17 @@ FR-NAQ,50,Nouvelle-Aquitaine,301,6
 FR-OCC,63,Occitanie,373,5.9
 FR-PDL,85,Pays de la Loire,323,3.8
 FR-PAC,130,Provence-Alpes-Côte d'Azur,656,5.1
-GB-ENG,335,England,18748,56
 GB-SCT,230,Scotland,1249,5.4
 GB-WLS,254,Wales,796,3.1
 GB-NIR,159,Northern Ireland,299,1.9
+GB-ENG,335,England,18748,56
+GB-ENG-H,362,East Of England,2244,6.2
+GB-ENG-I,547,London,4877,8.9
+GB-ENG-FG,362,Midlands,3871,10.7
+GB-ENG-CE,320,North East And Yorkshire,2601,8.1
+GB-ENG-D,397,North West,2893,7.3
+GB-ENG-J,248,South East,2267,9.1
+GB-ENG-K,159,South West,891,5.6
 DE-BW,117,Baden-Württemberg,1269,10.9
 DE-BY,131,Bayern,1681,12.8
 DE-BE,36,Berlin,127,3.5
