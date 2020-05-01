@@ -1,0 +1,1882 @@
+{
+  "AF": {
+    "ISO": "AF",
+    "name": "Afghanistan",
+    "population": 38928341,
+    "km2": 652860,
+    "lat": 33.93911,
+    "long": 67.709953,
+    "code": 4,
+    "source": ""
+  },
+  "AL": {
+    "ISO": "AL",
+    "name": "Albania",
+    "population": 2877800,
+    "km2": 27400,
+    "lat": 41.1533,
+    "long": 20.1683,
+    "code": 8,
+    "source": ""
+  },
+  "DZ": {
+    "ISO": "DZ",
+    "name": "Algeria",
+    "population": 43851043,
+    "km2": 2381740,
+    "lat": 28.0339,
+    "long": 1.6596,
+    "code": 12,
+    "source": ""
+  },
+  "AD": {
+    "ISO": "AD",
+    "name": "Andorra",
+    "population": 77265,
+    "km2": 470,
+    "lat": 42.5063,
+    "long": 1.5218,
+    "code": 20,
+    "source": ""
+  },
+  "AO": {
+    "ISO": "AO",
+    "name": "Angola",
+    "population": 32866268,
+    "km2": 1246700,
+    "lat": -11.2027,
+    "long": 17.8739,
+    "code": 24,
+    "source": ""
+  },
+  "AG": {
+    "ISO": "AG",
+    "name": "Antigua and Barbuda",
+    "population": 97928,
+    "km2": 440,
+    "lat": 17.0608,
+    "long": -61.7964,
+    "code": 28,
+    "source": ""
+  },
+  "AR": {
+    "ISO": "AR",
+    "name": "Argentina",
+    "population": 45195777,
+    "km2": 2736690,
+    "lat": -38.4161,
+    "long": -63.6167,
+    "code": 32,
+    "source": ""
+  },
+  "AM": {
+    "ISO": "AM",
+    "name": "Armenia",
+    "population": 2963234,
+    "km2": 28470,
+    "lat": 40.0691,
+    "long": 45.0382,
+    "code": 51,
+    "source": ""
+  },
+  "AU": {
+    "ISO": "AU",
+    "name": "Australia",
+    "population": 25459700,
+    "km2": 7682300,
+    "lat": -25,
+    "long": 133,
+    "code": 36,
+    "source": ""
+  },
+  "AT": {
+    "ISO": "AT",
+    "name": "Austria",
+    "population": 9006400,
+    "km2": 82409,
+    "lat": 47.5162,
+    "long": 14.5501,
+    "code": 40,
+    "source": ""
+  },
+  "AZ": {
+    "ISO": "AZ",
+    "name": "Azerbaijan",
+    "population": 10139175,
+    "km2": 82658,
+    "lat": 40.1431,
+    "long": 47.5769,
+    "code": 31,
+    "source": ""
+  },
+  "BS": {
+    "ISO": "BS",
+    "name": "Bahamas",
+    "population": 393248,
+    "km2": 10010,
+    "lat": 25.025885,
+    "long": -78.035889,
+    "code": 44,
+    "source": ""
+  },
+  "BH": {
+    "ISO": "BH",
+    "name": "Bahrain",
+    "population": 1701583,
+    "km2": 760,
+    "lat": 26.0275,
+    "long": 50.55,
+    "code": 48,
+    "source": ""
+  },
+  "BD": {
+    "ISO": "BD",
+    "name": "Bangladesh",
+    "population": 164689383,
+    "km2": 130170,
+    "lat": 23.685,
+    "long": 90.3563,
+    "code": 50,
+    "source": ""
+  },
+  "BB": {
+    "ISO": "BB",
+    "name": "Barbados",
+    "population": 287371,
+    "km2": 430,
+    "lat": 13.1939,
+    "long": -59.5432,
+    "code": 52,
+    "source": ""
+  },
+  "BY": {
+    "ISO": "BY",
+    "name": "Belarus",
+    "population": 9449321,
+    "km2": 202910,
+    "lat": 53.7098,
+    "long": 27.9534,
+    "code": 112,
+    "source": ""
+  },
+  "BE": {
+    "ISO": "BE",
+    "name": "Belgium",
+    "population": 11589616,
+    "km2": 30280,
+    "lat": 50.8333,
+    "long": 4.469936,
+    "code": 56,
+    "source": ""
+  },
+  "BZ": {
+    "ISO": "BZ",
+    "name": "Belize",
+    "population": 397621,
+    "km2": 22810,
+    "lat": 17.1899,
+    "long": -88.4976,
+    "code": 84,
+    "source": ""
+  },
+  "BJ": {
+    "ISO": "BJ",
+    "name": "Benin",
+    "population": 12123198,
+    "km2": 112760,
+    "lat": 9.3077,
+    "long": 2.3158,
+    "code": 204,
+    "source": ""
+  },
+  "BT": {
+    "ISO": "BT",
+    "name": "Bhutan",
+    "population": 771612,
+    "km2": 38117,
+    "lat": 27.5142,
+    "long": 90.4336,
+    "code": 64,
+    "source": ""
+  },
+  "BO": {
+    "ISO": "BO",
+    "name": "Bolivia",
+    "population": 11673029,
+    "km2": 1083300,
+    "lat": -16.2902,
+    "long": -63.5887,
+    "code": 68,
+    "source": ""
+  },
+  "BA": {
+    "ISO": "BA",
+    "name": "Bosnia and Herzegovina",
+    "population": 3280815,
+    "km2": 51000,
+    "lat": 43.9159,
+    "long": 17.6791,
+    "code": 70,
+    "source": ""
+  },
+  "BW": {
+    "ISO": "BW",
+    "name": "Botswana",
+    "population": 2351625,
+    "km2": 566730,
+    "lat": -22.3285,
+    "long": 24.6849,
+    "code": 72,
+    "source": ""
+  },
+  "BR": {
+    "ISO": "BR",
+    "name": "Brazil",
+    "population": 212559409,
+    "km2": 8358140,
+    "lat": -14.235,
+    "long": -51.9253,
+    "code": 76,
+    "source": ""
+  },
+  "BN": {
+    "ISO": "BN",
+    "name": "Brunei",
+    "population": 437483,
+    "km2": 5270,
+    "lat": 4.5353,
+    "long": 114.7277,
+    "code": 96,
+    "source": ""
+  },
+  "BG": {
+    "ISO": "BG",
+    "name": "Bulgaria",
+    "population": 6948445,
+    "km2": 108560,
+    "lat": 42.7339,
+    "long": 25.4858,
+    "code": 100,
+    "source": ""
+  },
+  "BF": {
+    "ISO": "BF",
+    "name": "Burkina Faso",
+    "population": 20903278,
+    "km2": 273600,
+    "lat": 12.2383,
+    "long": -1.5616,
+    "code": 854,
+    "source": ""
+  },
+  "BI": {
+    "ISO": "BI",
+    "name": "Burundi",
+    "population": 11890781,
+    "km2": 25680,
+    "lat": -3.3731,
+    "long": 29.9189,
+    "code": 108,
+    "source": ""
+  },
+  "CV": {
+    "ISO": "CV",
+    "name": "Cabo Verde",
+    "population": 555988,
+    "km2": 4030,
+    "lat": 16.5388,
+    "long": -23.0418,
+    "code": 132,
+    "source": ""
+  },
+  "KH": {
+    "ISO": "KH",
+    "name": "Cambodia",
+    "population": 16718971,
+    "km2": 176520,
+    "lat": 11.55,
+    "long": 104.9167,
+    "code": 116,
+    "source": ""
+  },
+  "CM": {
+    "ISO": "CM",
+    "name": "Cameroon",
+    "population": 26545864,
+    "km2": 472710,
+    "lat": 3.848,
+    "long": 11.5021,
+    "code": 120,
+    "source": ""
+  },
+  "CA": {
+    "ISO": "CA",
+    "name": "Canada",
+    "population": 37855702,
+    "km2": 9093510,
+    "lat": 60,
+    "long": -95,
+    "code": 124,
+    "source": ""
+  },
+  "CA-BC": {
+    "ISO": "CA-BC",
+    "name": "Canada-British Columbia",
+    "population": 5110917,
+    "km2": 925186,
+    "lat": 53.7267,
+    "long": -127.6476,
+    "code": 124,
+    "source": "https://en.wikipedia.org/wiki/British_Columbia"
+  },
+  "CA-ON": {
+    "ISO": "CA-ON",
+    "name": "CA-Ontario",
+    "population": 14711827,
+    "km2": 1076395,
+    "lat": 51.2538,
+    "long": -85.3232,
+    "code": 124,
+    "source": "https://en.wikipedia.org/wiki/Ontario"
+  },
+  "CA-QC": {
+    "ISO": "CA-QC",
+    "name": "CA-Quebec",
+    "population": 8537674,
+    "km2": 1542056,
+    "lat": 52.9399,
+    "long": -73.5491,
+    "code": 124,
+    "source": "https://en.wikipedia.org/wiki/Quebec"
+  },
+  "CF": {
+    "ISO": "CF",
+    "name": "Central African Republic",
+    "population": 4829764,
+    "km2": 622980,
+    "lat": 6.6111,
+    "long": 20.9394,
+    "code": 140,
+    "source": ""
+  },
+  "TD": {
+    "ISO": "TD",
+    "name": "Chad",
+    "population": 16425859,
+    "km2": 1259200,
+    "lat": 15.4542,
+    "long": 18.7322,
+    "code": 148,
+    "source": ""
+  },
+  "CL": {
+    "ISO": "CL",
+    "name": "Chile",
+    "population": 19116209,
+    "km2": 743532,
+    "lat": -35.6751,
+    "long": -71.543,
+    "code": 152,
+    "source": ""
+  },
+  "CN": {
+    "ISO": "CN",
+    "name": "China",
+    "population": 1404676330,
+    "km2": 9388211,
+    "lat": 30.5928,
+    "long": 114.3055,
+    "code": 156,
+    "source": ""
+  },
+  "CN-HB": {
+    "ISO": "CN-HB",
+    "name": "CN-Hubei",
+    "population": 59170000,
+    "km2": 185900,
+    "lat": 30.9756,
+    "long": 112.2707,
+    "code": 156,
+    "source": "https://en.wikipedia.org/wiki/Hubei"
+  },
+  "CO": {
+    "ISO": "CO",
+    "name": "Colombia",
+    "population": 50882884,
+    "km2": 1109500,
+    "lat": 4.5709,
+    "long": -74.2973,
+    "code": 170,
+    "source": ""
+  },
+  "CD": {
+    "ISO": "CD",
+    "name": "Congo",
+    "population": 89561404,
+    "km2": 2267050,
+    "lat": -4.322447,
+    "long": 15.307045,
+    "code": 180,
+    "source": ""
+  },
+  "KM": {
+    "ISO": "KM",
+    "name": "Comoros",
+    "population": 869595,
+    "km2": 1861,
+    "lat": -11.6455,
+    "long": 43.3333,
+    "code": 174,
+    "source": ""
+  },
+  "CR": {
+    "ISO": "CR",
+    "name": "Costa Rica",
+    "population": 5094114,
+    "km2": 51060,
+    "lat": 9.7489,
+    "long": -83.7534,
+    "code": 188,
+    "source": ""
+  },
+  "CI": {
+    "ISO": "CI",
+    "name": "Cote d'Ivoire",
+    "population": 26378275,
+    "km2": 318000,
+    "lat": 7.54,
+    "long": -5.5471,
+    "code": 384,
+    "source": ""
+  },
+  "HR": {
+    "ISO": "HR",
+    "name": "Croatia",
+    "population": 4105268,
+    "km2": 55960,
+    "lat": 45.1,
+    "long": 15.2,
+    "code": 191,
+    "source": ""
+  },
+  "CU": {
+    "ISO": "CU",
+    "name": "Cuba",
+    "population": 11326616,
+    "km2": 106440,
+    "lat": 21.521757,
+    "long": -77.781167,
+    "code": 192,
+    "source": ""
+  },
+  "CY": {
+    "ISO": "CY",
+    "name": "Cyprus",
+    "population": 1207361,
+    "km2": 9240,
+    "lat": 35.1264,
+    "long": 33.4299,
+    "code": 196,
+    "source": ""
+  },
+  "CZ": {
+    "ISO": "CZ",
+    "name": "Czechia",
+    "population": 10708982,
+    "km2": 77240,
+    "lat": 49.8175,
+    "long": 15.473,
+    "code": 203,
+    "source": ""
+  },
+  "DK": {
+    "ISO": "DK",
+    "name": "Denmark",
+    "population": 5792203,
+    "km2": 42430,
+    "lat": 56.2639,
+    "long": 9.5018,
+    "code": 208,
+    "source": ""
+  },
+  "DJ": {
+    "ISO": "DJ",
+    "name": "Djibouti",
+    "population": 988002,
+    "km2": 23180,
+    "lat": 11.8251,
+    "long": 42.5903,
+    "code": 262,
+    "source": ""
+  },
+  "DM": {
+    "ISO": "DM",
+    "name": "Dominica",
+    "population": 71991,
+    "km2": 750,
+    "lat": 15.415,
+    "long": -61.371,
+    "code": 212,
+    "source": ""
+  },
+  "DO": {
+    "ISO": "DO",
+    "name": "Dominican Republic",
+    "population": 10847904,
+    "km2": 48320,
+    "lat": 18.7357,
+    "long": -70.1627,
+    "code": 214,
+    "source": ""
+  },
+  "EC": {
+    "ISO": "EC",
+    "name": "Ecuador",
+    "population": 17643060,
+    "km2": 248360,
+    "lat": -1.8312,
+    "long": -78.1834,
+    "code": 218,
+    "source": ""
+  },
+  "EG": {
+    "ISO": "EG",
+    "name": "Egypt",
+    "population": 102334403,
+    "km2": 995450,
+    "lat": 26.820553,
+    "long": 30.802498,
+    "code": 818,
+    "source": ""
+  },
+  "SV": {
+    "ISO": "SV",
+    "name": "El Salvador",
+    "population": 6486201,
+    "km2": 20720,
+    "lat": 13.7942,
+    "long": -88.8965,
+    "code": 222,
+    "source": ""
+  },
+  "GQ": {
+    "ISO": "GQ",
+    "name": "Equatorial Guinea",
+    "population": 1402985,
+    "km2": 28050,
+    "lat": 1.6508,
+    "long": 10.2679,
+    "code": 226,
+    "source": ""
+  },
+  "ER": {
+    "ISO": "ER",
+    "name": "Eritrea",
+    "population": 3546427,
+    "km2": 101000,
+    "lat": 15.1794,
+    "long": 39.7823,
+    "code": 232,
+    "source": ""
+  },
+  "EE": {
+    "ISO": "EE",
+    "name": "Estonia",
+    "population": 1326539,
+    "km2": 42390,
+    "lat": 58.5953,
+    "long": 25.0136,
+    "code": 233,
+    "source": ""
+  },
+  "SZ": {
+    "ISO": "SZ",
+    "name": "Eswatini",
+    "population": 1160164,
+    "km2": 17200,
+    "lat": -26.5225,
+    "long": 31.4659,
+    "code": 748,
+    "source": ""
+  },
+  "ET": {
+    "ISO": "ET",
+    "name": "Ethiopia",
+    "population": 114963583,
+    "km2": 1000000,
+    "lat": 9.145,
+    "long": 40.4897,
+    "code": 231,
+    "source": ""
+  },
+  "FJ": {
+    "ISO": "FJ",
+    "name": "Fiji",
+    "population": 896444,
+    "km2": 18270,
+    "lat": -17.7134,
+    "long": 178.065,
+    "code": 242,
+    "source": ""
+  },
+  "FI": {
+    "ISO": "FI",
+    "name": "Finland",
+    "population": 5540718,
+    "km2": 303890,
+    "lat": 61.92411,
+    "long": 25.748151,
+    "code": 246,
+    "source": ""
+  },
+  "FR": {
+    "ISO": "FR",
+    "name": "France",
+    "population": 65273512,
+    "km2": 547557,
+    "lat": 46.2276,
+    "long": 2.2137,
+    "code": 250,
+    "source": ""
+  },
+  "GA": {
+    "ISO": "GA",
+    "name": "Gabon",
+    "population": 2225728,
+    "km2": 257670,
+    "lat": -0.8037,
+    "long": 11.6094,
+    "code": 266,
+    "source": ""
+  },
+  "GM": {
+    "ISO": "GM",
+    "name": "Gambia",
+    "population": 2416664,
+    "km2": 10120,
+    "lat": 13.4432,
+    "long": -15.3101,
+    "code": 270,
+    "source": ""
+  },
+  "GE": {
+    "ISO": "GE",
+    "name": "Georgia",
+    "population": 3989175,
+    "km2": 69490,
+    "lat": 42.3154,
+    "long": 43.3569,
+    "code": 268,
+    "source": ""
+  },
+  "DE": {
+    "ISO": "DE",
+    "name": "Germany",
+    "population": 83783945,
+    "km2": 348560,
+    "lat": 51.165691,
+    "long": 10.451526,
+    "code": 276,
+    "source": ""
+  },
+  "GH": {
+    "ISO": "GH",
+    "name": "Ghana",
+    "population": 31072945,
+    "km2": 227540,
+    "lat": 7.9465,
+    "long": -1.0232,
+    "code": 288,
+    "source": ""
+  },
+  "GR": {
+    "ISO": "GR",
+    "name": "Greece",
+    "population": 10423056,
+    "km2": 128900,
+    "lat": 39.0742,
+    "long": 21.8243,
+    "code": 300,
+    "source": ""
+  },
+  "GD": {
+    "ISO": "GD",
+    "name": "Grenada",
+    "population": 112519,
+    "km2": 340,
+    "lat": 12.1165,
+    "long": -61.679,
+    "code": 308,
+    "source": ""
+  },
+  "GT": {
+    "ISO": "GT",
+    "name": "Guatemala",
+    "population": 17915567,
+    "km2": 107160,
+    "lat": 15.7835,
+    "long": -90.2308,
+    "code": 320,
+    "source": ""
+  },
+  "GN": {
+    "ISO": "GN",
+    "name": "Guinea",
+    "population": 13132792,
+    "km2": 245720,
+    "lat": 9.9456,
+    "long": -9.6966,
+    "code": 324,
+    "source": ""
+  },
+  "GW": {
+    "ISO": "GW",
+    "name": "Guinea-Bissau",
+    "population": 1967998,
+    "km2": 28120,
+    "lat": 11.8037,
+    "long": -15.1804,
+    "code": 624,
+    "source": ""
+  },
+  "GY": {
+    "ISO": "GY",
+    "name": "Guyana",
+    "population": 786559,
+    "km2": 196850,
+    "lat": 4.860416,
+    "long": -58.93018,
+    "code": 328,
+    "source": ""
+  },
+  "HT": {
+    "ISO": "HT",
+    "name": "Haiti",
+    "population": 11402533,
+    "km2": 27560,
+    "lat": 18.9712,
+    "long": -72.2852,
+    "code": 332,
+    "source": ""
+  },
+  "HN": {
+    "ISO": "HN",
+    "name": "Honduras",
+    "population": 9904608,
+    "km2": 111890,
+    "lat": 15.2,
+    "long": -86.2419,
+    "code": 340,
+    "source": ""
+  },
+  "HU": {
+    "ISO": "HU",
+    "name": "Hungary",
+    "population": 9660350,
+    "km2": 90530,
+    "lat": 47.1625,
+    "long": 19.5033,
+    "code": 348,
+    "source": ""
+  },
+  "IS": {
+    "ISO": "IS",
+    "name": "Iceland",
+    "population": 341250,
+    "km2": 100250,
+    "lat": 64.9631,
+    "long": -19.0208,
+    "code": 352,
+    "source": ""
+  },
+  "IN": {
+    "ISO": "IN",
+    "name": "India",
+    "population": 1380004385,
+    "km2": 2973190,
+    "lat": 20.593684,
+    "long": 78.96288,
+    "code": 356,
+    "source": ""
+  },
+  "ID": {
+    "ISO": "ID",
+    "name": "Indonesia",
+    "population": 273523621,
+    "km2": 1811570,
+    "lat": -0.7893,
+    "long": 113.9213,
+    "code": 360,
+    "source": ""
+  },
+  "IR": {
+    "ISO": "IR",
+    "name": "Iran",
+    "population": 83992953,
+    "km2": 1628550,
+    "lat": 32.427908,
+    "long": 53.688046,
+    "code": 364,
+    "source": ""
+  },
+  "IQ": {
+    "ISO": "IQ",
+    "name": "Iraq",
+    "population": 40222503,
+    "km2": 434320,
+    "lat": 33.223191,
+    "long": 43.679291,
+    "code": 368,
+    "source": ""
+  },
+  "IE": {
+    "ISO": "IE",
+    "name": "Ireland",
+    "population": 4937796,
+    "km2": 68890,
+    "lat": 53.1424,
+    "long": -7.6921,
+    "code": 372,
+    "source": ""
+  },
+  "IL": {
+    "ISO": "IL",
+    "name": "Israel",
+    "population": 8655541,
+    "km2": 21640,
+    "lat": 31.046051,
+    "long": 34.851612,
+    "code": 376,
+    "source": ""
+  },
+  "IT": {
+    "ISO": "IT",
+    "name": "Italy",
+    "population": 60461828,
+    "km2": 294140,
+    "lat": 41.87194,
+    "long": 12.56738,
+    "code": 380,
+    "source": ""
+  },
+  "JM": {
+    "ISO": "JM",
+    "name": "Jamaica",
+    "population": 2961161,
+    "km2": 10830,
+    "lat": 18.1096,
+    "long": -77.2975,
+    "code": 388,
+    "source": ""
+  },
+  "JP": {
+    "ISO": "JP",
+    "name": "Japan",
+    "population": 126476458,
+    "km2": 364555,
+    "lat": 36.204824,
+    "long": 138.252924,
+    "code": 392,
+    "source": ""
+  },
+  "JO": {
+    "ISO": "JO",
+    "name": "Jordan",
+    "population": 10203140,
+    "km2": 88780,
+    "lat": 31.24,
+    "long": 36.51,
+    "code": 400,
+    "source": ""
+  },
+  "KZ": {
+    "ISO": "KZ",
+    "name": "Kazakhstan",
+    "population": 18776707,
+    "km2": 2699700,
+    "lat": 48.0196,
+    "long": 66.9237,
+    "code": 398,
+    "source": ""
+  },
+  "KE": {
+    "ISO": "KE",
+    "name": "Kenya",
+    "population": 53771300,
+    "km2": 569140,
+    "lat": -0.0236,
+    "long": 37.9062,
+    "code": 404,
+    "source": ""
+  },
+  "KR": {
+    "ISO": "KR",
+    "name": "Korea South",
+    "population": 51269183,
+    "km2": "",
+    "lat": 35.907757,
+    "long": 127.766922,
+    "code": 410,
+    "source": ""
+  },
+  "XK": {
+    "ISO": "XK",
+    "name": "Kosovo",
+    "population": 1810366,
+    "km2": "",
+    "lat": 42.602636,
+    "long": 20.902977,
+    "code": 383,
+    "source": ""
+  },
+  "KW": {
+    "ISO": "KW",
+    "name": "Kuwait",
+    "population": 4270563,
+    "km2": 17820,
+    "lat": 29.31166,
+    "long": 47.481766,
+    "code": 414,
+    "source": ""
+  },
+  "KG": {
+    "ISO": "KG",
+    "name": "Kyrgyzstan",
+    "population": 6524191,
+    "km2": 191800,
+    "lat": 41.20438,
+    "long": 74.766098,
+    "code": 417,
+    "source": ""
+  },
+  "LA": {
+    "ISO": "LA",
+    "name": "Laos",
+    "population": 7275556,
+    "km2": 230800,
+    "lat": 19.85627,
+    "long": 102.495496,
+    "code": 418,
+    "source": ""
+  },
+  "LV": {
+    "ISO": "LV",
+    "name": "Latvia",
+    "population": 1886202,
+    "km2": 62200,
+    "lat": 56.8796,
+    "long": 24.6032,
+    "code": 428,
+    "source": ""
+  },
+  "LB": {
+    "ISO": "LB",
+    "name": "Lebanon",
+    "population": 6825442,
+    "km2": 10230,
+    "lat": 33.8547,
+    "long": 35.8623,
+    "code": 422,
+    "source": ""
+  },
+  "LR": {
+    "ISO": "LR",
+    "name": "Liberia",
+    "population": 5057677,
+    "km2": 96320,
+    "lat": 6.428055,
+    "long": -9.429499,
+    "code": 430,
+    "source": ""
+  },
+  "LY": {
+    "ISO": "LY",
+    "name": "Libya",
+    "population": 6871287,
+    "km2": 1759540,
+    "lat": 26.3351,
+    "long": 17.228331,
+    "code": 434,
+    "source": ""
+  },
+  "LI": {
+    "ISO": "LI",
+    "name": "Liechtenstein",
+    "population": 38137,
+    "km2": 160,
+    "lat": 47.14,
+    "long": 9.55,
+    "code": 438,
+    "source": ""
+  },
+  "LT": {
+    "ISO": "LT",
+    "name": "Lithuania",
+    "population": 2722291,
+    "km2": 62674,
+    "lat": 55.1694,
+    "long": 23.8813,
+    "code": 440,
+    "source": ""
+  },
+  "LU": {
+    "ISO": "LU",
+    "name": "Luxembourg",
+    "population": 625976,
+    "km2": 2590,
+    "lat": 49.8153,
+    "long": 6.1296,
+    "code": 442,
+    "source": ""
+  },
+  "MG": {
+    "ISO": "MG",
+    "name": "Madagascar",
+    "population": 27691019,
+    "km2": 581795,
+    "lat": -18.766947,
+    "long": 46.869107,
+    "code": 450,
+    "source": ""
+  },
+  "MW": {
+    "ISO": "MW",
+    "name": "Malawi",
+    "population": 19129955,
+    "km2": 94280,
+    "lat": -13.2543,
+    "long": 34.3015,
+    "code": 454,
+    "source": ""
+  },
+  "MY": {
+    "ISO": "MY",
+    "name": "Malaysia",
+    "population": 32365998,
+    "km2": 328550,
+    "lat": 4.210484,
+    "long": 101.975766,
+    "code": 458,
+    "source": ""
+  },
+  "MV": {
+    "ISO": "MV",
+    "name": "Maldives",
+    "population": 540542,
+    "km2": 300,
+    "lat": 3.2028,
+    "long": 73.2207,
+    "code": 462,
+    "source": ""
+  },
+  "ML": {
+    "ISO": "ML",
+    "name": "Mali",
+    "population": 20250834,
+    "km2": 1220190,
+    "lat": 17.570692,
+    "long": -3.996166,
+    "code": 466,
+    "source": ""
+  },
+  "MT": {
+    "ISO": "MT",
+    "name": "Malta",
+    "population": 441539,
+    "km2": 320,
+    "lat": 35.9375,
+    "long": 14.3754,
+    "code": 470,
+    "source": ""
+  },
+  "MR": {
+    "ISO": "MR",
+    "name": "Mauritania",
+    "population": 4649660,
+    "km2": 1030700,
+    "lat": 21.0079,
+    "long": -10.9408,
+    "code": 478,
+    "source": ""
+  },
+  "MU": {
+    "ISO": "MU",
+    "name": "Mauritius",
+    "population": 1271767,
+    "km2": 2030,
+    "lat": -20.348404,
+    "long": 57.552152,
+    "code": 480,
+    "source": ""
+  },
+  "MX": {
+    "ISO": "MX",
+    "name": "Mexico",
+    "population": 128932753,
+    "km2": 1943950,
+    "lat": 23.6345,
+    "long": -102.5528,
+    "code": 484,
+    "source": ""
+  },
+  "MD": {
+    "ISO": "MD",
+    "name": "Moldova",
+    "population": 4033963,
+    "km2": 32850,
+    "lat": 47.4116,
+    "long": 28.3699,
+    "code": 498,
+    "source": ""
+  },
+  "MC": {
+    "ISO": "MC",
+    "name": "Monaco",
+    "population": 39244,
+    "km2": 1,
+    "lat": 43.7333,
+    "long": 7.4167,
+    "code": 492,
+    "source": ""
+  },
+  "MN": {
+    "ISO": "MN",
+    "name": "Mongolia",
+    "population": 3278292,
+    "km2": 1553560,
+    "lat": 46.8625,
+    "long": 103.8467,
+    "code": 496,
+    "source": ""
+  },
+  "ME": {
+    "ISO": "ME",
+    "name": "Montenegro",
+    "population": 628062,
+    "km2": 13450,
+    "lat": 42.708678,
+    "long": 19.37439,
+    "code": 499,
+    "source": ""
+  },
+  "MA": {
+    "ISO": "MA",
+    "name": "Morocco",
+    "population": 36910558,
+    "km2": 446300,
+    "lat": 31.7917,
+    "long": -7.0926,
+    "code": 504,
+    "source": ""
+  },
+  "MZ": {
+    "ISO": "MZ",
+    "name": "Mozambique",
+    "population": 31255435,
+    "km2": 786380,
+    "lat": -18.665695,
+    "long": 35.529562,
+    "code": 508,
+    "source": ""
+  },
+  "MM": {
+    "ISO": "MM",
+    "name": "Myanmar",
+    "population": 54409794,
+    "km2": 653290,
+    "lat": 21.9162,
+    "long": 95.956,
+    "code": 104,
+    "source": ""
+  },
+  "NA": {
+    "ISO": "NA",
+    "name": "Namibia",
+    "population": 2540916,
+    "km2": 823290,
+    "lat": -22.9576,
+    "long": 18.4904,
+    "code": 516,
+    "source": ""
+  },
+  "NP": {
+    "ISO": "NP",
+    "name": "Nepal",
+    "population": 29136808,
+    "km2": 143350,
+    "lat": 28.1667,
+    "long": 84.25,
+    "code": 524,
+    "source": ""
+  },
+  "NL": {
+    "ISO": "NL",
+    "name": "Netherlands",
+    "population": 17134873,
+    "km2": 33720,
+    "lat": 52.1326,
+    "long": 5.2913,
+    "code": 528,
+    "source": ""
+  },
+  "NZ": {
+    "ISO": "NZ",
+    "name": "New Zealand",
+    "population": 4822233,
+    "km2": 263310,
+    "lat": -40.9006,
+    "long": 174.886,
+    "code": 554,
+    "source": ""
+  },
+  "NI": {
+    "ISO": "NI",
+    "name": "Nicaragua",
+    "population": 6624554,
+    "km2": 120340,
+    "lat": 12.865416,
+    "long": -85.207229,
+    "code": 558,
+    "source": ""
+  },
+  "NE": {
+    "ISO": "NE",
+    "name": "Niger",
+    "population": 24206636,
+    "km2": 1266700,
+    "lat": 17.607789,
+    "long": 8.081666,
+    "code": 562,
+    "source": ""
+  },
+  "NG": {
+    "ISO": "NG",
+    "name": "Nigeria",
+    "population": 206139587,
+    "km2": 910770,
+    "lat": 9.082,
+    "long": 8.6753,
+    "code": 566,
+    "source": ""
+  },
+  "MK": {
+    "ISO": "MK",
+    "name": "North Macedonia",
+    "population": 2083380,
+    "km2": 25220,
+    "lat": 41.6086,
+    "long": 21.7453,
+    "code": 807,
+    "source": ""
+  },
+  "NO": {
+    "ISO": "NO",
+    "name": "Norway",
+    "population": 5421242,
+    "km2": 365268,
+    "lat": 60.472,
+    "long": 8.4689,
+    "code": 578,
+    "source": ""
+  },
+  "OM": {
+    "ISO": "OM",
+    "name": "Oman",
+    "population": 5106622,
+    "km2": 309500,
+    "lat": 21.512583,
+    "long": 55.923255,
+    "code": 512,
+    "source": ""
+  },
+  "PK": {
+    "ISO": "PK",
+    "name": "Pakistan",
+    "population": 220892331,
+    "km2": 770880,
+    "lat": 30.3753,
+    "long": 69.3451,
+    "code": 586,
+    "source": ""
+  },
+  "PA": {
+    "ISO": "PA",
+    "name": "Panama",
+    "population": 4314768,
+    "km2": 74340,
+    "lat": 8.538,
+    "long": -80.7821,
+    "code": 591,
+    "source": ""
+  },
+  "PG": {
+    "ISO": "PG",
+    "name": "Papua New Guinea",
+    "population": 8947027,
+    "km2": 452860,
+    "lat": -6.314993,
+    "long": 143.95555,
+    "code": 598,
+    "source": ""
+  },
+  "PY": {
+    "ISO": "PY",
+    "name": "Paraguay",
+    "population": 7132530,
+    "km2": 397300,
+    "lat": -23.4425,
+    "long": -58.4438,
+    "code": 600,
+    "source": ""
+  },
+  "PE": {
+    "ISO": "PE",
+    "name": "Peru",
+    "population": 32971846,
+    "km2": 1280000,
+    "lat": -9.19,
+    "long": -75.0152,
+    "code": 604,
+    "source": ""
+  },
+  "PH": {
+    "ISO": "PH",
+    "name": "Philippines",
+    "population": 109581085,
+    "km2": 298170,
+    "lat": 12.879721,
+    "long": 121.774017,
+    "code": 608,
+    "source": ""
+  },
+  "PL": {
+    "ISO": "PL",
+    "name": "Poland",
+    "population": 37846605,
+    "km2": 306230,
+    "lat": 51.9194,
+    "long": 19.1451,
+    "code": 616,
+    "source": ""
+  },
+  "PT": {
+    "ISO": "PT",
+    "name": "Portugal",
+    "population": 10196707,
+    "km2": 91590,
+    "lat": 39.3999,
+    "long": -8.2245,
+    "code": 620,
+    "source": ""
+  },
+  "QA": {
+    "ISO": "QA",
+    "name": "Qatar",
+    "population": 2881060,
+    "km2": 11610,
+    "lat": 25.3548,
+    "long": 51.1839,
+    "code": 634,
+    "source": ""
+  },
+  "RO": {
+    "ISO": "RO",
+    "name": "Romania",
+    "population": 19237682,
+    "km2": 230170,
+    "lat": 45.9432,
+    "long": 24.9668,
+    "code": 642,
+    "source": ""
+  },
+  "RU": {
+    "ISO": "RU",
+    "name": "Russia",
+    "population": 145934460,
+    "km2": 16376870,
+    "lat": 61.52401,
+    "long": 105.318756,
+    "code": 643,
+    "source": ""
+  },
+  "RW": {
+    "ISO": "RW",
+    "name": "Rwanda",
+    "population": 12952209,
+    "km2": 24670,
+    "lat": -1.9403,
+    "long": 29.8739,
+    "code": 646,
+    "source": ""
+  },
+  "KN": {
+    "ISO": "KN",
+    "name": "Saint Kitts and Nevis",
+    "population": 53192,
+    "km2": 260,
+    "lat": 17.357822,
+    "long": -62.782998,
+    "code": 659,
+    "source": ""
+  },
+  "LC": {
+    "ISO": "LC",
+    "name": "Saint Lucia",
+    "population": 183629,
+    "km2": 610,
+    "lat": 13.9094,
+    "long": -60.9789,
+    "code": 662,
+    "source": ""
+  },
+  "VC": {
+    "ISO": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "population": 110947,
+    "km2": 390,
+    "lat": 12.9843,
+    "long": -61.2872,
+    "code": 670,
+    "source": ""
+  },
+  "SM": {
+    "ISO": "SM",
+    "name": "San Marino",
+    "population": 33938,
+    "km2": 60,
+    "lat": 43.9424,
+    "long": 12.4578,
+    "code": 674,
+    "source": ""
+  },
+  "ST": {
+    "ISO": "ST",
+    "name": "Sao Tome and Principe",
+    "population": 219161,
+    "km2": 960,
+    "lat": 0.1864,
+    "long": 6.6131,
+    "code": 678,
+    "source": ""
+  },
+  "SA": {
+    "ISO": "SA",
+    "name": "Saudi Arabia",
+    "population": 34813867,
+    "km2": 2149690,
+    "lat": 23.885942,
+    "long": 45.079162,
+    "code": 682,
+    "source": ""
+  },
+  "SN": {
+    "ISO": "SN",
+    "name": "Senegal",
+    "population": 16743930,
+    "km2": 192530,
+    "lat": 14.4974,
+    "long": -14.4524,
+    "code": 686,
+    "source": ""
+  },
+  "RS": {
+    "ISO": "RS",
+    "name": "Serbia",
+    "population": 8737370,
+    "km2": 87460,
+    "lat": 44.0165,
+    "long": 21.0059,
+    "code": 688,
+    "source": ""
+  },
+  "SC": {
+    "ISO": "SC",
+    "name": "Seychelles",
+    "population": 98340,
+    "km2": 460,
+    "lat": -4.6796,
+    "long": 55.492,
+    "code": 690,
+    "source": ""
+  },
+  "SL": {
+    "ISO": "SL",
+    "name": "Sierra Leone",
+    "population": 7976985,
+    "km2": 72180,
+    "lat": 8.460555,
+    "long": -11.779889,
+    "code": 694,
+    "source": ""
+  },
+  "SG": {
+    "ISO": "SG",
+    "name": "Singapore",
+    "population": 5850343,
+    "km2": 700,
+    "lat": 1.2833,
+    "long": 103.8333,
+    "code": 702,
+    "source": ""
+  },
+  "SK": {
+    "ISO": "SK",
+    "name": "Slovakia",
+    "population": 5459643,
+    "km2": 48088,
+    "lat": 48.669,
+    "long": 19.699,
+    "code": 703,
+    "source": ""
+  },
+  "SI": {
+    "ISO": "SI",
+    "name": "Slovenia",
+    "population": 2078932,
+    "km2": 20140,
+    "lat": 46.1512,
+    "long": 14.9955,
+    "code": 705,
+    "source": ""
+  },
+  "SO": {
+    "ISO": "SO",
+    "name": "Somalia",
+    "population": 15893219,
+    "km2": 627340,
+    "lat": 5.152149,
+    "long": 46.199616,
+    "code": 706,
+    "source": ""
+  },
+  "ZA": {
+    "ISO": "ZA",
+    "name": "South Africa",
+    "population": 59308690,
+    "km2": 1213090,
+    "lat": -30.5595,
+    "long": 22.9375,
+    "code": 710,
+    "source": ""
+  },
+  "SS": {
+    "ISO": "SS",
+    "name": "South Sudan",
+    "population": 11193729,
+    "km2": 610952,
+    "lat": 6.877,
+    "long": 31.307,
+    "code": 728,
+    "source": ""
+  },
+  "ES": {
+    "ISO": "ES",
+    "name": "Spain",
+    "population": 46754783,
+    "km2": 498800,
+    "lat": 40.463667,
+    "long": -3.74922,
+    "code": 724,
+    "source": ""
+  },
+  "LK": {
+    "ISO": "LK",
+    "name": "Sri Lanka",
+    "population": 21413250,
+    "km2": 62710,
+    "lat": 7.873054,
+    "long": 80.771797,
+    "code": 144,
+    "source": ""
+  },
+  "SD": {
+    "ISO": "SD",
+    "name": "Sudan",
+    "population": 43849269,
+    "km2": 1765048,
+    "lat": 12.8628,
+    "long": 30.2176,
+    "code": 729,
+    "source": ""
+  },
+  "SR": {
+    "ISO": "SR",
+    "name": "Suriname",
+    "population": 586634,
+    "km2": 156000,
+    "lat": 3.9193,
+    "long": -56.0278,
+    "code": 740,
+    "source": ""
+  },
+  "SE": {
+    "ISO": "SE",
+    "name": "Sweden",
+    "population": 10099270,
+    "km2": 410340,
+    "lat": 60.128161,
+    "long": 18.643501,
+    "code": 752,
+    "source": ""
+  },
+  "CH": {
+    "ISO": "CH",
+    "name": "Switzerland",
+    "population": 8654618,
+    "km2": 39516,
+    "lat": 46.8182,
+    "long": 8.2275,
+    "code": 756,
+    "source": ""
+  },
+  "SY": {
+    "ISO": "SY",
+    "name": "Syria",
+    "population": 17500657,
+    "km2": 183630,
+    "lat": 34.802075,
+    "long": 38.996815,
+    "code": 760,
+    "source": ""
+  },
+  "TW": {
+    "ISO": "TW",
+    "name": "Taiwan",
+    "population": 23816775,
+    "km2": "",
+    "lat": 23.7,
+    "long": 121,
+    "code": 158,
+    "source": ""
+  },
+  "TJ": {
+    "ISO": "TJ",
+    "name": "Tajikistan",
+    "population": 9537642,
+    "km2": 139960,
+    "lat": 38.861,
+    "long": 71.2761,
+    "code": 762,
+    "source": ""
+  },
+  "TZ": {
+    "ISO": "TZ",
+    "name": "Tanzania",
+    "population": 59734213,
+    "km2": 885800,
+    "lat": -6.369028,
+    "long": 34.888822,
+    "code": 834,
+    "source": ""
+  },
+  "TH": {
+    "ISO": "TH",
+    "name": "Thailand",
+    "population": 69799978,
+    "km2": 510890,
+    "lat": 15.870032,
+    "long": 100.992541,
+    "code": 764,
+    "source": ""
+  },
+  "TL": {
+    "ISO": "TL",
+    "name": "Timor-Leste",
+    "population": 1318442,
+    "km2": 14870,
+    "lat": -8.874217,
+    "long": 125.727539,
+    "code": 626,
+    "source": ""
+  },
+  "TG": {
+    "ISO": "TG",
+    "name": "Togo",
+    "population": 8278737,
+    "km2": 54390,
+    "lat": 8.6195,
+    "long": 0.8248,
+    "code": 768,
+    "source": ""
+  },
+  "TT": {
+    "ISO": "TT",
+    "name": "Trinidad and Tobago",
+    "population": 1399491,
+    "km2": 5130,
+    "lat": 10.6918,
+    "long": -61.2225,
+    "code": 780,
+    "source": ""
+  },
+  "TN": {
+    "ISO": "TN",
+    "name": "Tunisia",
+    "population": 11818618,
+    "km2": 155360,
+    "lat": 33.886917,
+    "long": 9.537499,
+    "code": 788,
+    "source": ""
+  },
+  "TR": {
+    "ISO": "TR",
+    "name": "Turkey",
+    "population": 84339067,
+    "km2": 769630,
+    "lat": 38.9637,
+    "long": 35.2433,
+    "code": 792,
+    "source": ""
+  },
+  "UG": {
+    "ISO": "UG",
+    "name": "Uganda",
+    "population": 45741000,
+    "km2": 199810,
+    "lat": 1.373333,
+    "long": 32.290275,
+    "code": 800,
+    "source": ""
+  },
+  "UA": {
+    "ISO": "UA",
+    "name": "Ukraine",
+    "population": 43733759,
+    "km2": 579320,
+    "lat": 48.3794,
+    "long": 31.1656,
+    "code": 804,
+    "source": ""
+  },
+  "AE": {
+    "ISO": "AE",
+    "name": "United Arab Emirates",
+    "population": 9890400,
+    "km2": 83600,
+    "lat": 23.424076,
+    "long": 53.847818,
+    "code": 784,
+    "source": ""
+  },
+  "GB": {
+    "ISO": "GB",
+    "name": "United Kingdom",
+    "population": 67886004,
+    "km2": 241930,
+    "lat": 55.3781,
+    "long": -3.436,
+    "code": 826,
+    "source": ""
+  },
+  "UY": {
+    "ISO": "UY",
+    "name": "Uruguay",
+    "population": 3473727,
+    "km2": 175020,
+    "lat": -32.5228,
+    "long": -55.7658,
+    "code": 858,
+    "source": ""
+  },
+  "US": {
+    "ISO": "US",
+    "name": "US",
+    "population": 329466283,
+    "km2": 9147420,
+    "lat": 40,
+    "long": -100,
+    "code": 840,
+    "source": ""
+  },
+  "US-NYC": {
+    "ISO": "US-NYC",
+    "name": "US-New York City",
+    "population": 8336817,
+    "km2": 783,
+    "lat": 40.7672,
+    "long": -73.9715,
+    "code": 840,
+    "source": "https://en.wikipedia.org/wiki/New_York_City"
+  },
+  "UZ": {
+    "ISO": "UZ",
+    "name": "Uzbekistan",
+    "population": 33469199,
+    "km2": 425400,
+    "lat": 41.377491,
+    "long": 64.585262,
+    "code": 860,
+    "source": ""
+  },
+  "VE": {
+    "ISO": "VE",
+    "name": "Venezuela",
+    "population": 28435943,
+    "km2": 882050,
+    "lat": 6.4238,
+    "long": -66.5897,
+    "code": 862,
+    "source": ""
+  },
+  "VN": {
+    "ISO": "VN",
+    "name": "Vietnam",
+    "population": 97338583,
+    "km2": 310070,
+    "lat": 14.058324,
+    "long": 108.277199,
+    "code": 704,
+    "source": ""
+  },
+  "PS": {
+    "ISO": "PS",
+    "name": "West Bank and Gaza",
+    "population": 5101416,
+    "km2": "",
+    "lat": 31.9522,
+    "long": 35.2332,
+    "code": 275,
+    "source": ""
+  },
+  "EH": {
+    "ISO": "EH",
+    "name": "Western Sahara",
+    "population": 597330,
+    "km2": "",
+    "lat": 24.2155,
+    "long": -12.8858,
+    "code": 732,
+    "source": ""
+  },
+  "YE": {
+    "ISO": "YE",
+    "name": "Yemen",
+    "population": 29825968,
+    "km2": 527970,
+    "lat": 15.552727,
+    "long": 48.516388,
+    "code": 887,
+    "source": ""
+  },
+  "ZM": {
+    "ISO": "ZM",
+    "name": "Zambia",
+    "population": 18383956,
+    "km2": 743390,
+    "lat": -13.133897,
+    "long": 27.849332,
+    "code": 894,
+    "source": ""
+  },
+  "ZW": {
+    "ISO": "ZW",
+    "name": "Zimbabwe",
+    "population": 14862927,
+    "km2": 386850,
+    "lat": -19.015438,
+    "long": 29.154857,
+    "code": 716,
+    "source": ""
+  }
+}
