@@ -1,176 +1,212 @@
 {
+  "European Union": {
+    "ISO": "EU",
+    "name": "European Union",
+    "population": 447206135,
+    "km2": 4233262,
+    "source": ""
+  },
   "Austria": {
     "ISO": "AT",
     "name": "Austria",
     "population": 8858775,
-    "km2": 83855
+    "km2": 83855,
+    "source": ""
   },
   "Belgium": {
     "ISO": "BE",
     "name": "Belgium",
     "population": 11467923,
-    "km2": 30528
+    "km2": 30528,
+    "source": ""
   },
   "Bulgaria": {
     "ISO": "BG",
     "name": "Bulgaria",
     "population": 7000039,
-    "km2": 110994
+    "km2": 110994,
+    "source": ""
   },
   "Croatia": {
     "ISO": "HR",
     "name": "Croatia",
     "population": 4076246,
-    "km2": 56594
+    "km2": 56594,
+    "source": ""
   },
   "Cyprus": {
     "ISO": "CY",
     "name": "Cyprus",
     "population": 875898,
-    "km2": 9251
+    "km2": 9251,
+    "source": ""
   },
   "Czechia": {
     "ISO": "CZ",
     "name": "Czechia",
     "population": 10649800,
-    "km2": 78866
+    "km2": 78866,
+    "source": ""
   },
   "Denmark": {
     "ISO": "DK",
     "name": "Denmark",
     "population": 5806081,
-    "km2": 43075
+    "km2": 43075,
+    "source": ""
   },
   "Estonia": {
     "ISO": "EE",
     "name": "Estonia",
     "population": 1324820,
-    "km2": 45227
+    "km2": 45227,
+    "source": ""
   },
   "Finland": {
     "ISO": "FI",
     "name": "Finland",
     "population": 5517919,
-    "km2": 338424
+    "km2": 338424,
+    "source": ""
   },
   "France": {
     "ISO": "FR",
     "name": "France",
     "population": 67028048,
-    "km2": 632833
+    "km2": 632833,
+    "source": ""
   },
   "Germany": {
     "ISO": "DE",
     "name": "Germany",
     "population": 83019214,
-    "km2": 357386
+    "km2": 357386,
+    "source": ""
   },
   "Greece": {
     "ISO": "GR",
     "name": "Greece",
     "population": 10722287,
-    "km2": 131990
+    "km2": 131990,
+    "source": ""
   },
   "Hungary": {
     "ISO": "HU",
     "name": "Hungary",
     "population": 9797561,
-    "km2": 93030
+    "km2": 93030,
+    "source": ""
   },
   "Ireland": {
     "ISO": "IE",
     "name": "Ireland",
     "population": 4904226,
-    "km2": 70273
+    "km2": 70273,
+    "source": ""
   },
   "Italy": {
     "ISO": "IT",
     "name": "Italy",
     "population": 60359546,
-    "km2": 301338
+    "km2": 301338,
+    "source": ""
   },
   "Latvia": {
     "ISO": "LV",
     "name": "Latvia",
     "population": 1919968,
-    "km2": 64589
+    "km2": 64589,
+    "source": ""
   },
   "Lithuania": {
     "ISO": "LT",
     "name": "Lithuania",
     "population": 2794184,
-    "km2": 65200
+    "km2": 65200,
+    "source": ""
   },
   "Luxembourg": {
     "ISO": "LU",
     "name": "Luxembourg",
     "population": 613894,
-    "km2": 2586
+    "km2": 2586,
+    "source": ""
   },
   "Malta": {
     "ISO": "MT",
     "name": "Malta",
     "population": 493559,
-    "km2": 316
+    "km2": 316,
+    "source": ""
   },
   "Netherlands": {
     "ISO": "NL",
     "name": "Netherlands",
     "population": 17282163,
-    "km2": 41543
+    "km2": 41543,
+    "source": ""
   },
   "Poland": {
     "ISO": "PL",
     "name": "Poland",
     "population": 37972812,
-    "km2": 312685
+    "km2": 312685,
+    "source": ""
   },
   "Portugal": {
     "ISO": "PT",
     "name": "Portugal",
     "population": 10276617,
-    "km2": 92212
+    "km2": 92212,
+    "source": ""
   },
   "Romania": {
     "ISO": "RO",
     "name": "Romania",
     "population": 19401658,
-    "km2": 238391
+    "km2": 238391,
+    "source": ""
   },
   "Slovakia": {
     "ISO": "SK",
     "name": "Slovakia",
     "population": 5450421,
-    "km2": 49035
+    "km2": 49035,
+    "source": ""
   },
   "Slovenia": {
     "ISO": "SI",
     "name": "Slovenia",
     "population": 2080908,
-    "km2": 20273
+    "km2": 20273,
+    "source": ""
   },
   "Spain": {
     "ISO": "ES",
     "name": "Spain",
     "population": 46934632,
-    "km2": 504030
+    "km2": 504030,
+    "source": ""
   },
   "Sweden": {
     "ISO": "SE",
     "name": "Sweden",
     "population": 10230185,
-    "km2": 449964
+    "km2": 449964,
+    "source": ""
   },
   "Switzerland": {
     "ISO": "CH",
     "name": "Switzerland",
     "population": 8570146,
-    "km2": 41285
+    "km2": 41285,
+    "source": ""
   },
   "United Kingdom": {
     "ISO": "GB",
     "name": "United Kingdom",
     "population": 67886004,
-    "km2": 242495
+    "km2": 242495,
+    "source": ""
   }
 }

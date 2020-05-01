@@ -1,4 +1,11 @@
 {
+  "ES": {
+    "ISO": "ES",
+    "name": "Spain",
+    "population": 47026208,
+    "km2": 505370,
+    "code": "0"
+  },
   "ES-AN": {
     "ISO": "ES-AN",
     "name": "Andalucía",
@@ -131,12 +138,5 @@
     "population": 86487,
     "km2": 12,
     "code": 19
-  },
-  "ES": {
-    "ISO": "ES",
-    "name": "Spain",
-    "population": 47026208,
-    "km2": 505370,
-    "code": 0
   }
 }

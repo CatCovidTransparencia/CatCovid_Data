@@ -1,4 +1,11 @@
 {
+  "DE": {
+    "ISO": "DE",
+    "name": "Germany",
+    "population": 82176000,
+    "km2": 357386,
+    "code": "0"
+  },
   "DE-BW": {
     "ISO": "DE-BW",
     "name": "Baden-Württemberg",
@@ -110,12 +117,5 @@
     "population": 2171000,
     "km2": 16202,
     "code": 16
-  },
-  "DE": {
-    "ISO": "DE",
-    "name": "Germany",
-    "population": 82176000,
-    "km2": 357386,
-    "code": "0"
   }
 }

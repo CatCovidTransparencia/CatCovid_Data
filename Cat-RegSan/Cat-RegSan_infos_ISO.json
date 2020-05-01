@@ -1,5 +1,5 @@
 {
-  "Cataluña": {
+  "ES-CT": {
     "ISO": "ES-CT",
     "name": "Cataluña",
     "population": 7503682,
@@ -15,7 +15,7 @@
     "source": "https://ca.wikipedia.org/wiki/Pla_territorial_general_de_Catalunya",
     "source2": "https://catsalut.gencat.cat/web/.content/minisite/catsalut/territori/barcelona/coneix-regio-sanitaria/pla-territorial-salut/Pla-de-salut-RSB-2016-2020.pdf"
   },
-  "Pirineu": {
+  "ES-CT-RS11": {
     "ISO": "ES-CT-RS11",
     "name": "Pirineu",
     "population": 428717,
@@ -31,7 +31,7 @@
     "source": "https://ca.wikipedia.org/wiki/Ponent_(regi%C3%B3)",
     "source2": ""
   },
-  "Barcelona": {
+  "ES-CT-RS12": {
     "ISO": "ES-CT-RS12",
     "name": "Barcelona",
     "population": 4947837,
@@ -47,7 +47,7 @@
     "source": "https://ca.wikipedia.org/wiki/%C3%80mbit_metropolit%C3%A0_de_Barcelona",
     "source2": ""
   },
-  "Tarragona": {
+  "ES-CT-RS13": {
     "ISO": "ES-CT-RS13",
     "name": "Tarragona",
     "population": 593391,
@@ -63,7 +63,7 @@
     "source": "https://ca.wikipedia.org/wiki/Camp_de_Tarragona",
     "source2": ""
   },
-  "Central": {
+  "ES-CT-RS14": {
     "ISO": "ES-CT-RS14",
     "name": "Central",
     "population": 511707,
@@ -79,7 +79,7 @@
     "source": "https://ca.wikipedia.org/wiki/Catalunya_Central",
     "source2": ""
   },
-  "Girona": {
+  "ES-CT-RS15": {
     "ISO": "ES-CT-RS15",
     "name": "Girona",
     "population": 839960,
@@ -95,7 +95,7 @@
     "source": "https://ca.wikipedia.org/wiki/Comarques_gironines",
     "source2": ""
   },
-  "Lleida": {
+  "ES-CT-RS16": {
     "ISO": "ES-CT-RS16",
     "name": "Lleida",
     "population": 428717,
@@ -111,7 +111,7 @@
     "source": "https://ca.wikipedia.org/wiki/Ponent_(regi%C3%B3)",
     "source2": ""
   },
-  "Ebre": {
+  "ES-CT-RS17": {
     "ISO": "ES-CT-RS17",
     "name": "Ebre",
     "population": 182070,
@@ -127,7 +127,7 @@
     "source": "https://ca.wikipedia.org/wiki/Terres_de_l%27Ebre",
     "source2": ""
   },
-  "Central-sin-Igua": {
+  "ES-CT-SS45-SS82": {
     "ISO": "ES-CT-SS45-SS82",
     "name": "Central-sin-Igua",
     "population": 441707,
@@ -143,7 +143,7 @@
     "source": "https://ca.wikipedia.org/wiki/Catalunya_Central",
     "source2": ""
   },
-  "Lleida-Pir": {
+  "ES-CT-RS16-RS11": {
     "ISO": "ES-CT-RS16-RS11",
     "name": "Lleida-Pir",
     "population": 428717,
@@ -159,7 +159,7 @@
     "source": "https://ca.wikipedia.org/wiki/Ponent_(regi%C3%B3)",
     "source2": ""
   },
-  "Cat-sin-Igua": {
+  "ES-CT-RS10": {
     "ISO": "ES-CT-RS10",
     "name": "Cat-sin-Igua",
     "population": 7433682,
@@ -175,7 +175,7 @@
     "source": "",
     "source2": ""
   },
-  "Igualada": {
+  "ES-CT-SS35": {
     "ISO": "ES-CT-SS35",
     "name": "Igualada",
     "population": 70000,
@@ -191,7 +191,7 @@
     "source": "https://ca.wikipedia.org/wiki/Conca_d%27%C3%92dena",
     "source2": ""
   },
-  "Pyrénées-Orientales": {
+  "FR-OCC-66": {
     "ISO": "FR-OCC-66",
     "name": "Pyrénées-Orientales",
     "population": 474452,

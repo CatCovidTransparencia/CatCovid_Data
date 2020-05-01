@@ -1,4 +1,12 @@
 {
+  "FR": {
+    "ISO": "FR",
+    "name": "France",
+    "population": 64897954,
+    "km2": 543941,
+    "code": "0",
+    "code_INSEE": "0"
+  },
   "FR-ARA": {
     "ISO": "FR-ARA",
     "name": "Auvergne-Rhône-Alpes",
@@ -103,12 +111,12 @@
     "code": 13,
     "code_INSEE": 93
   },
-  "FR": {
-    "ISO": "FR",
-    "name": "France",
-    "population": 64897954,
-    "km2": 543941,
-    "code": "0",
-    "code_INSEE": "0"
+  "FR-OCC-66": {
+    "ISO": "FR-OCC-66",
+    "name": "Pyrénées-Orientales",
+    "population": 474452,
+    "km2": 4116,
+    "code": 116,
+    "code_INSEE": 66
   }
 }

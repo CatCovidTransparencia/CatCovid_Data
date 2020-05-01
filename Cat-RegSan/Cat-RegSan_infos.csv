@@ -1,0 +1,14 @@
+ISO,name,population,km2,lat,long,ID,CODE,popM,pop>65y,pop>65y-%,pop/km2,source,source2
+ES-CT,Cataluña,7503682,31895,41.8,1.5,1,RS0,7.503682,1358597,18.10573796,235.262016,https://ca.wikipedia.org/wiki/Pla_territorial_general_de_Catalunya,https://catsalut.gencat.cat/web/.content/minisite/catsalut/territori/barcelona/coneix-regio-sanitaria/pla-territorial-salut/Pla-de-salut-RSB-2016-2020.pdf
+ES-CT-RS11,Pirineu,428717,11361,41.7,0.9,11,RS11,0.428717,79910,18.63933551,37.73585072,https://ca.wikipedia.org/wiki/Ponent_(regi%C3%B3),
+ES-CT-RS12,Barcelona,4947837,2464,41.5,2.1,12,RS12,4.947837,903667,18.26387975,2008.050731,https://ca.wikipedia.org/wiki/%C3%80mbit_metropolit%C3%A0_de_Barcelona,
+ES-CT-RS13,Tarragona,593391,2703,41.2,1.1,13,RS13,0.593391,97196,16.37975635,219.5305216,https://ca.wikipedia.org/wiki/Camp_de_Tarragona,
+ES-CT-RS14,Central,511707,4745,41.8,2,14,RS14,0.511707,96034,18.76738055,107.8413066,https://ca.wikipedia.org/wiki/Catalunya_Central,
+ES-CT-RS15,Girona,839960,5584,42.1,2.7,15,RS15,0.83996,143025,17.02759655,150.4226361,https://ca.wikipedia.org/wiki/Comarques_gironines,
+ES-CT-RS16,Lleida,428717,11361,41.7,0.9,16,RS16,0.428717,79910,18.63933551,37.73585072,https://ca.wikipedia.org/wiki/Ponent_(regi%C3%B3),
+ES-CT-RS17,Ebre,182070,3308,40.9,0.5,17,RS17,0.18207,38765,21.2912616,55.03929867,https://ca.wikipedia.org/wiki/Terres_de_l%27Ebre,
+ES-CT-SS45-SS82,Central-sin-Igua,441707,4625,41.8,2,4582,SS45-SS82,0.441707,82896,18.76738055,95.50421622,https://ca.wikipedia.org/wiki/Catalunya_Central,
+ES-CT-RS16-RS11,Lleida-Pir,428717,11361,41.7,0.9,1611,RS16-RS11,0.428717,79910,18.63933551,37.73585072,https://ca.wikipedia.org/wiki/Ponent_(regi%C3%B3),
+ES-CT-RS10,Cat-sin-Igua,7433682,31775,41.8,1.5,2,RS10,7.433682,1345597,18.09950753,233.9475059,,
+ES-CT-SS35,Igualada,70000,120,41.6,1.6,35,SS35,0.7,13000,18.76738055,583.3333333,https://ca.wikipedia.org/wiki/Conca_d%27%C3%92dena,
+FR-OCC-66,Pyrénées-Orientales,474452,4116,42.5,2.75,201,66,0.474452,70000,14.7538634,115.2701652,https://fr.wikipedia.org/wiki/Pyrénées-Orientales,

@@ -5,7 +5,7 @@ const fs = require("fs");
 let convert_to_percent = true;
 // convert_to_percent = false;
 
-let val_min = 18;
+let val_min = 27;
 
 let file_attr_1 = "min" + val_min;
 let val_length_max = 15;

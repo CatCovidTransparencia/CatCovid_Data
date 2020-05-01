@@ -1,4 +1,11 @@
 {
+  "BE": {
+    "ISO": "BE",
+    "name": "Belgium",
+    "population": 11431406,
+    "km2": 30688,
+    "code": "0"
+  },
   "BE-BRU": {
     "ISO": "BE-BRU",
     "name": "Bruxelles",
@@ -19,12 +26,5 @@
     "population": 3633795,
     "km2": 16901,
     "code": 3
-  },
-  "BE": {
-    "ISO": "BE",
-    "name": "Belgium",
-    "population": 11431406,
-    "km2": 30688,
-    "code": "0"
   }
 }

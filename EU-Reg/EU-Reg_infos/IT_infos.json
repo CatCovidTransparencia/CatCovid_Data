@@ -1,4 +1,11 @@
 {
+  "Italia": {
+    "ISO": "IT",
+    "name": "Italia",
+    "population": 60797469,
+    "km2": 301340,
+    "code": "0"
+  },
   "Abruzzo": {
     "ISO": "IT-ABR",
     "name": "Abruzzo",
@@ -138,12 +145,5 @@
     "population": 4928503,
     "km2": 18399,
     "code": 20
-  },
-  "Italia": {
-    "ISO": "IT",
-    "name": "Italia",
-    "population": 60797469,
-    "km2": 301340,
-    "code": "0"
   }
 }

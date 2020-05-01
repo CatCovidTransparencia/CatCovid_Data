@@ -2,10 +2,10 @@
 
 const fs = require("fs");
 
-let files_name_arr = ["EU", "BE", "ES", "IT", "FR", "GB", "DE"];
+let files_name_arr = ["EU", "BE", "DE", "ES", "FR", "IT", "GB"];
 
 let r_path = "../";
-let w_path = "../";
+let w_path = "../../";
 
 let w_pathfile_1 = w_path + "EU-Reg_infos.json";
 let w_pathfile_2 = w_path + "EU-Reg_infos_ISO.json";

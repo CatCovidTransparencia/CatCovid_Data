@@ -1,4 +1,5 @@
 ISO,name,population,km2,code
+DE,Germany,82176000,357386,0
 DE-BW,Baden-Württemberg,10880000,35751,1
 DE-BY,Bayern,12844000,70550,2
 DE-BE,Berlin,3520000,892,3
@@ -15,4 +16,3 @@ DE-SN,Sachsen,4085000,18449,13
 DE-ST,Sachsen-Anhalt,2245000,20452,14
 DE-SH,Schleswig-Holstein,2859000,15802,15
 DE-TH,Thüringen,2171000,16202,16
-DE,Germany,82176000,357386,0

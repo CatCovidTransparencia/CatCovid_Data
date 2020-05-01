@@ -4,7 +4,7 @@ const fs = require("fs");
 
 let zeroing_first = true;
 
-let val_min = 36;
+let val_min = 18;
 let file_fold = "min" + val_min + "/";
 let file_attr = "_deaths_min" + val_min + "_grow_%";
 
@@ -13,7 +13,7 @@ let index_max = 15;
 let headers_index_start = 13;
 
 
-let title = "Cat-world_deaths";
+let title = "Cat-World_deaths";
 let w_path = "../";
 let w_file_root = "Cat-World";
 let w_file = w_file_root + file_attr + ".csv";
@@ -36,7 +36,7 @@ console.log("r_pathfile_2 : " + r_pathfile_2);
 let file_2_lines = ["Madrid", "Lombardia", "Occitanie"];
 
 let r_path_3 = "../../World/";
-let r_file_root_3 = "Countries";
+let r_file_root_3 = "World";
 let r_file_3 = r_file_root_3 + file_attr + ".csv";
 let r_pathfile_3 = r_path_3 + file_fold + r_file_3;
 console.log("r_pathfile_3 : " + r_pathfile_3);

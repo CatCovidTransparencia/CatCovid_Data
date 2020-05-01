@@ -2,7 +2,7 @@
 
 const fs = require("fs");
 
-let val_min = 18;
+let val_min = 27;
 
 let val_length_max = 29;
 let val_length_min = 8;
@@ -10,7 +10,7 @@ let val_length_min = 8;
 let file_attr_1 = "min" + val_min;
 
 let r_path = "../";
-let r_file = "EU-Reg_deaths_series.csv";
+let r_file = "EU_deaths_series.csv";
 let r_pathfile = r_path + r_file;
 console.log("r_pathfile : " + r_pathfile);
 
