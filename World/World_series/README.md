@@ -5,8 +5,7 @@ The main database for our world reference is the **Johns Hopkins University** re
 COVID-19 ](https://github.com/CSSEGISandData/COVID-19)
 
 After a few typos and datas corrections, and joining under one name Province/country and using an european date system , we obtained our cleaned reference files for 264 Countries/Regions:
-- Countries-All_deaths_series.csv
-- Countries-All_LatLong.csv
+- World-All_deaths_series.csv
 
 ## Corrections
 
