@@ -60,6 +60,13 @@ fs.writeFileSync(w_pathfile_1, w_data_1);
 function dateUSConvert(de) {
   let d_arr = de.split("/");
   if (d_arr[0].toString().length < 2) d_arr[0] = "0" + d_arr[0];
+  let d = d_arr[1] + "/" + d_arr[0] + "/" + d_arr[2];
+  return d;
+}
+
+function dateUSConvertYMD(de) {
+  let d_arr = de.split("/");
+  if (d_arr[0].toString().length < 2) d_arr[0] = "0" + d_arr[0];
   let d = "20" + d_arr[2] + "-" + d_arr[0] + "-" + d_arr[1];
   return d;
 }

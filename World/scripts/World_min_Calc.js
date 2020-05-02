@@ -2,7 +2,7 @@
 
 const fs = require("fs");
 
-let val_min = 6;
+let val_min = 40;
 
 let val_length_max = 70;
 let val_length_min = 10;

@@ -1789,9 +1789,9 @@
     "code": 840,
     "source": ""
   },
-  "US-New York City": {
+  "New York City": {
     "ISO": "US-NYC",
-    "name": "US-New York City",
+    "name": "New York City",
     "population": 8336817,
     "km2": 783,
     "lat": 40.7672,

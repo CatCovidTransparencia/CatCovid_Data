@@ -2,10 +2,10 @@
 
 const fs = require("fs");
 
-let val_min = 36;
+let val_min = 40;
 let val_min_off = 7;
 
-let val_length_max = 57;
+let val_length_max = 70;
 let val_length_min = 8;
 
 let file_attr_1 = "min" + val_min + "_off" + val_min_off;
@@ -57,7 +57,7 @@ for (let i = 1; i < r_lines.length; i++) {
       // val_arr_cut.push(line_arr[j]);
     }
   }
-  console.log(country_name + " : " + min_index + " : " + line_arr[min_index]);
+  // console.log(country_name + " : " + min_index + " : " + line_arr[min_index]);
 
   let vals_out = [];
 

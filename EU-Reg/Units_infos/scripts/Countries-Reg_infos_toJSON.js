@@ -3,8 +3,8 @@
 const fs = require("fs");
 
 let C_attr = "EU";
-C_attr = "ES";
-// C_attr = "IT";
+// C_attr = "ES";
+C_attr = "IT";
 // C_attr = "FR";
 // C_attr = "GB";
 // C_attr = "BE";

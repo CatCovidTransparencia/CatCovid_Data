@@ -1,145 +1,145 @@
 {
-  "Italia": {
+  "IT": {
     "ISO": "IT",
     "name": "Italia",
     "population": 60797469,
     "km2": 301340,
     "code": "0"
   },
-  "Abruzzo": {
+  "IT-ABR": {
     "ISO": "IT-ABR",
     "name": "Abruzzo",
     "population": 1331749,
     "km2": 10763,
     "code": 1
   },
-  "Apulia": {
-    "ISO": "IT-PUG",
-    "name": "Apulia",
-    "population": 4082840,
-    "km2": 19358,
-    "code": 2
-  },
-  "Basilicata": {
+  "IT-BAS": {
     "ISO": "IT-BAS",
     "name": "Basilicata",
     "population": 575993,
     "km2": 9995,
     "code": 3
   },
-  "Calabria": {
+  "IT-CAL": {
     "ISO": "IT-CAL",
     "name": "Calabria",
     "population": 1977148,
     "km2": 15081,
     "code": 4
   },
-  "Campania": {
+  "IT-CAM": {
     "ISO": "IT-CAM",
     "name": "Campania",
     "population": 5869029,
     "km2": 13590,
     "code": 5
   },
-  "Emilia-Romagna": {
+  "IT-EMR": {
     "ISO": "IT-EMR",
     "name": "Emilia-Romagna",
     "population": 4450541,
     "km2": 22446,
     "code": 6
   },
-  "Friuli-Venezia Giulia": {
+  "IT-FVG": {
     "ISO": "IT-FVG",
     "name": "Friuli-Venezia Giulia",
     "population": 1227625,
     "km2": 7858,
     "code": 7
   },
-  "Lazio": {
+  "IT-LAZ": {
     "ISO": "IT-LAZ",
     "name": "Lazio",
     "population": 5892866,
     "km2": 17236,
     "code": 8
   },
-  "Liguria": {
+  "IT-LIG": {
     "ISO": "IT-LIG",
     "name": "Liguria",
     "population": 1589649,
     "km2": 5422,
     "code": 9
   },
-  "Lombardia": {
+  "IT-LOM": {
     "ISO": "IT-LOM",
     "name": "Lombardia",
     "population": 10001496,
     "km2": 23861,
     "code": 10
   },
-  "Marche": {
+  "IT-MAR": {
     "ISO": "IT-MAR",
     "name": "Marche",
     "population": 1549507,
     "km2": 9366,
     "code": 11
   },
-  "Molise": {
+  "IT-MOL": {
     "ISO": "IT-MOL",
     "name": "Molise",
     "population": 313278,
     "km2": 4438,
     "code": 12
   },
-  "Piemonte": {
+  "IT-PMN": {
     "ISO": "IT-PMN",
     "name": "Piemonte",
     "population": 4425194,
     "km2": 25402,
     "code": 13
   },
-  "Sardinia": {
+  "IT-PUG": {
+    "ISO": "IT-PUG",
+    "name": "Puglia",
+    "population": 4082840,
+    "km2": 19358,
+    "code": 2
+  },
+  "IT-SAR": {
     "ISO": "IT-SAR",
-    "name": "Sardinia",
+    "name": "Sardegna",
     "population": 1661630,
     "km2": 24100,
     "code": 14
   },
-  "Sicilia": {
+  "IT-SIC": {
     "ISO": "IT-SIC",
     "name": "Sicilia",
     "population": 5088889,
     "km2": 25711,
     "code": 15
   },
-  "Toscana": {
+  "IT-TOS": {
     "ISO": "IT-TOS",
     "name": "Toscana",
     "population": 3752414,
     "km2": 22994,
     "code": 16
   },
-  "Trentino-Alto Adige": {
+  "IT-TAA": {
     "ISO": "IT-TAA",
     "name": "Trentino-Alto Adige",
     "population": 1055649,
     "km2": 13607,
     "code": 17
   },
-  "Umbria": {
+  "IT-UMB": {
     "ISO": "IT-UMB",
     "name": "Umbria",
     "population": 895259,
     "km2": 8456,
     "code": 18
   },
-  "Valle d'Aosta": {
+  "IT-VAO": {
     "ISO": "IT-VAO",
     "name": "Valle d'Aosta",
     "population": 128210,
     "km2": 3263,
     "code": 19
   },
-  "Veneto": {
+  "IT-VEN": {
     "ISO": "IT-VEN",
     "name": "Veneto",
     "population": 4928503,

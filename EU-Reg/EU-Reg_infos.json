@@ -602,13 +602,6 @@
     "km2": 10763,
     "code": 1
   },
-  "Apulia": {
-    "ISO": "IT-PUG",
-    "name": "Apulia",
-    "population": 4082840,
-    "km2": 19358,
-    "code": 2
-  },
   "Basilicata": {
     "ISO": "IT-BAS",
     "name": "Basilicata",
@@ -686,9 +679,16 @@
     "km2": 25402,
     "code": 13
   },
-  "Sardinia": {
+  "Puglia": {
+    "ISO": "IT-PUG",
+    "name": "Puglia",
+    "population": 4082840,
+    "km2": 19358,
+    "code": 2
+  },
+  "Sardegna": {
     "ISO": "IT-SAR",
-    "name": "Sardinia",
+    "name": "Sardegna",
     "population": 1661630,
     "km2": 24100,
     "code": 14

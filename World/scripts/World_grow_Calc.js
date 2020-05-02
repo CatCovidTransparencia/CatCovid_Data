@@ -8,8 +8,8 @@ let convert_to_percent = true;
 let val_min = 40;
 
 let file_attr_1 = "min" + val_min;
-let val_length_max = 56;
-let val_length_min = 8;
+let val_length_max = 70;
+let val_length_min = 10;
 
 let r_path = "../" + file_attr_1 + "/";
 let r_file = "World_deaths_" + file_attr_1 + ".csv";
@@ -35,7 +35,7 @@ let w_data_1;
 
 // headers of date Euro style
 let headers_1 = "name";
-for (let k = 0; k < val_length_max + 1; k++) {
+for (let k = 0; k < val_length_max; k++) {
   headers_1 += "," + k;
 }
 console.log("headers : " + headers_1);
@@ -48,11 +48,11 @@ for (let i = 1; i < r_lines.length; i++) {
   let line_arr = r_lines[i].split(",");
 
   let country_name = line_arr.shift();
-  console.log(country_name);
+  // console.log(country_name);
 
   let vals_out = [0];
 
-  for (let k = 0; k < val_length_max; k++) {
+  for (let k = 0; k < (val_length_max - 1); k++) {
     let op_exists = line_arr[k] != "" && line_arr[k + 1] != "";
     // let op_exists = (line_arr[k+1] !== "")
     // let op_exists = (line_arr[k+1] !== undefined)
