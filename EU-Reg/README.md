@@ -11,8 +11,6 @@ We mainly use, Madrid (ES-MD), Lombardia (IT-LOM).
 A visualization of Europe regions , in deaths per million:  
 https://datawrapper.dwcdn.net/zhV5A/4/
 
-The geoJSON map is:  
-`EU_Reg-SIFDBGE_map.json`
 
 **The spanish regional datas are one day earlier than the official Gobierno dates. It's because they give the numbers at midday, the day after the 21h recount closing.**  
 **It' important for us to adjust to the real date, given that we are analising precise time events.**
@@ -33,6 +31,14 @@ Ordered by Name :
 Ordered by [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) and [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:ES).  
 Cataluña is (ES-CT) :   
 `EU-Reg_infos_ISO.json`
+
+## /Maps
+
+Different maps of Europe and regions.
+
+The most defined geoJSON map is:  
+`EU_Reg-SIFDBGE_map.json`
+regions of Spain,Italy,France,Deutchland,Belgium,GB,England.
 
 ## /scripts
 
