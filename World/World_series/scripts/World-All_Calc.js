@@ -5,7 +5,7 @@ const fs = require("fs");
 var expr_linebreak = /\r\n|\r|\n/;
 
 let r_path = "../CSSE/";
-let r_file = "time_series_covid19_deaths_global_2020-04-30_corrected.csv";
+let r_file = "time_series_covid19_deaths_global_2020-05-01_corrected.csv";
 let r_pathfile = r_path + r_file;
 console.log("r_pathfile : " + r_pathfile);
 

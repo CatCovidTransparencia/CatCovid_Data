@@ -1,0 +1,113 @@
+ISO,deathsPerM,name,deaths,popM
+AT,66,Austria,589,8.9
+BE,308,Belgium,3517,11.4
+BG,10,Bulgaria,68,7
+HR,18,Croatia,75,4.1
+CY,17,Cyprus,15,0.9
+CZ,23,Czechia,240,10.6
+DK,79,Denmark,460,5.8
+EE,39,Estonia,52,1.3
+FI,40,Finland,218,5.5
+FR,236,France,15310,64.9
+DE,80,Germany,6575,82.2
+GR,13,Greece,140,10.7
+HU,33,Hungary,323,9.8
+IE,258,Ireland,1265,4.9
+IT,464,Italia,28236,60.8
+LV,8,Latvia,16,1.9
+LT,16,Lithuania,45,2.8
+LU,150,Luxembourg,92,0.6
+MT,8,Malta,4,0.5
+NL,283,Netherlands,4893,17.3
+PL,17,Poland,651,38
+PT,98,Portugal,1007,10.3
+RO,38,Romania,744,19.4
+SK,4,Slovakia,23,5.5
+SI,44,Slovenia,92,2.1
+ES,552,Spain,25950,47
+SE,259,Sweden,2653,10.2
+CH,205,Switzerland,1754,8.6
+GB,355,United Kingdom,23599,66.4
+ES-AN,149,Andalucía,1253,8.4
+ES-AR,577,Aragón,761,1.3
+ES-AS,273,Asturias,279,1
+ES-IB,171,Baleares,197,1.1
+ES-CN,65,Canarias,140,2.2
+ES-CB,332,Cantabria,193,0.6
+ES-CM,1247,Castilla-La Mancha,2534,2
+ES-CL,745,Castilla y León,1788,2.4
+ES-CT,780,Cataluña,5987,7.7
+ES-VC,251,C. Valenciana,1258,5
+ES-EX,429,Extremadura,458,1.1
+ES-GA,206,Galicia,557,2.7
+ES-MD,1244,Madrid,8292,6.7
+ES-MC,88,Murcia,132,1.5
+ES-NC,703,Navarra,460,0.7
+ES-PV,598,País Vasco,1321,2.2
+ES-RI,1054,La Rioja,334,0.3
+ES-CE,47,Ceuta,4,0.1
+ES-ML,23,Melilla,2,0.1
+FR-ARA,168,Auvergne-Rhône-Alpes,1346,8
+FR-BFC,303,Bourgogne-Franche-Comté,843,2.8
+FR-BRE,63,Bretagne,212,3.3
+FR-CVL,154,Centre-Val de Loire,395,2.6
+FR-COR,145,Corse,50,0.3
+FR-GES,529,Grand Est,2915,5.5
+FR-HDF,233,Hauts-de-France,1390,6
+FR-IDF,492,Île-de-France,6047,12.3
+FR-NOR,105,Normandie,347,3.3
+FR-NAQ,54,Nouvelle-Aquitaine,324,6
+FR-OCC,66,Occitanie,394,5.9
+FR-PDL,90,Pays de la Loire,343,3.8
+FR-PAC,139,Provence-Alpes-Côte d'Azur,704,5.1
+FR-OCC-66,70,Pyrénées-Orientales,33,0.5
+IT-ABR,243,Abruzzo,324,1.3
+IT-BAS,43,Basilicata,25,0.6
+IT-CAL,43,Calabria,86,2
+IT-CAM,61,Campania,359,5.9
+IT-EMR,804,Emilia-Romagna,3579,4.5
+IT-FVG,239,Friuli-Venezia Giulia,294,1.2
+IT-LAZ,82,Lazio,482,5.9
+IT-LIG,745,Liguria,1184,1.6
+IT-LOM,1386,Lombardia,13860,10
+IT-MAR,588,Marche,911,1.5
+IT-MOL,67,Molise,21,0.3
+IT-PMN,700,Piemonte,3097,4.4
+IT-PUG,103,Puglia,421,4.1
+IT-SAR,70,Sardegna,117,1.7
+IT-SIC,47,Sicilia,237,5.1
+IT-TOS,228,Toscana,854,3.8
+IT-TAA,664,Trentino-Alto Adige,701,1.1
+IT-UMB,76,Umbria,68,0.9
+IT-VAO,1069,Valle d'Aosta,137,0.1
+IT-VEN,300,Veneto,1479,4.9
+BE-BRU,513,Bruxelles,620,1.2
+BE-VLG,243,Vlaanderen,1601,6.6
+BE-WAL,357,Wallonie,1296,3.6
+GB-SCT,271,Scotland,1475,5.4
+GB-WLS,295,Wales,925,3.1
+GB-NIR,184,Northern Ireland,347,1.9
+GB-ENG,373,England,20852,56
+GB-ENG-H,387,East Of England,2397,6.2
+GB-ENG-I,572,London,5098,8.9
+GB-ENG-FG,382,Midlands,4084,10.7
+GB-ENG-CE,349,North East And Yorkshire,2839,8.1
+GB-ENG-D,423,North West,3083,7.3
+GB-ENG-J,263,South East,2404,9.1
+GB-ENG-K,169,South West,947,5.6
+DE-BW,129,Baden-Württemberg,1402,10.9
+DE-BY,147,Bayern,1885,12.8
+DE-BE,43,Berlin,152,3.5
+DE-BB,49,Brandenburg,122,2.5
+DE-HB,45,Bremen,30,0.7
+DE-HH,91,Hamburg,163,1.8
+DE-HE,59,Hessen,364,6.2
+DE-MV,11,Mecklenburg-Vorpommern,18,1.6
+DE-NI,57,Niedersachsen,451,7.9
+DE-NW,71,Nordrhein-Westfalen,1268,17.9
+DE-RP,43,Rheinland-Pfalz,173,4.1
+DE-SL,136,Saarland,135,1
+DE-SN,40,Sachsen,163,4.1
+DE-ST,20,Sachsen-Anhalt,44,2.2
+DE-SH,39,Schleswig-Holstein,112,2.9
+DE-TH,43,Thüringen,93,2.2

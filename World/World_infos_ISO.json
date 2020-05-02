@@ -331,7 +331,7 @@
   },
   "CA-ON": {
     "ISO": "CA-ON",
-    "name": "CA-Ontario",
+    "name": "Canada-Ontario",
     "population": 14711827,
     "km2": 1076395,
     "lat": 51.2538,
@@ -341,7 +341,7 @@
   },
   "CA-QC": {
     "ISO": "CA-QC",
-    "name": "CA-Quebec",
+    "name": "Canada-Quebec",
     "population": 8537674,
     "km2": 1542056,
     "lat": 52.9399,
@@ -391,7 +391,7 @@
   },
   "CN-HB": {
     "ISO": "CN-HB",
-    "name": "CN-Hubei",
+    "name": "China-Hubei",
     "population": 59170000,
     "km2": 185900,
     "lat": 30.9756,

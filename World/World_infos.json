@@ -329,9 +329,9 @@
     "code": 124,
     "source": "https://en.wikipedia.org/wiki/British_Columbia"
   },
-  "CA-Ontario": {
+  "Canada-Ontario": {
     "ISO": "CA-ON",
-    "name": "CA-Ontario",
+    "name": "Canada-Ontario",
     "population": 14711827,
     "km2": 1076395,
     "lat": 51.2538,
@@ -339,9 +339,9 @@
     "code": 124,
     "source": "https://en.wikipedia.org/wiki/Ontario"
   },
-  "CA-Quebec": {
+  "Canada-Quebec": {
     "ISO": "CA-QC",
-    "name": "CA-Quebec",
+    "name": "Canada-Quebec",
     "population": 8537674,
     "km2": 1542056,
     "lat": 52.9399,
@@ -389,9 +389,9 @@
     "code": 156,
     "source": ""
   },
-  "CN-Hubei": {
+  "China-Hubei": {
     "ISO": "CN-HB",
-    "name": "CN-Hubei",
+    "name": "China-Hubei",
     "population": 59170000,
     "km2": 185900,
     "lat": 30.9756,
