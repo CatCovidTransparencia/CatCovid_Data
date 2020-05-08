@@ -11,7 +11,7 @@ We reconstructed precisely all the data for each Regions Sanitarias (**RegSan**)
 
 For our study of the impact of the Manifestation of the 29-F on the coronavirus epidemic in Cataluña, it was important to reconstruct the deaths and UCI data by sanitary region, and isolate the datas from Igualada that is a ecosystem by itself.
 
-- **deaths** : complete. for all RegSanApart. A few holes in the datas that we filled (medium), when its only 1 continuous hole in a regular serie.
+- **deaths** : complete. for all RegSan. Apart a few holes in the datas that we filled (medium), when its only 1 continuous hole in a regular serie.
 - **cases** : nearly complete. missing Central region data. we work on it.
 - **ICU** :  nearly complete. Only missing for Igualada from 2020-03-23
 - **recovered**: incomplete
